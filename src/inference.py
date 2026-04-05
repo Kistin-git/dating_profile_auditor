@@ -7,6 +7,7 @@ from typing import Dict
 import numpy as np
 import torch
 from sentence_transformers import SentenceTransformer
+from huggingface_hub import snapshot_download
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, pipeline
 
 from .config import (
@@ -103,6 +104,17 @@ class DatingProfileClassifier:
         if Path(PATHS.model_dir).exists():
             try:
                 self.impl = TransformerClassifier(PATHS.model_dir)
+                return
+            except Exception:
+                pass
+        if PATHS.hf_repo_id:
+            try:
+                repo_path = snapshot_download(
+                    repo_id=PATHS.hf_repo_id,
+                    revision=PATHS.hf_revision,
+                    cache_dir=PATHS.hf_cache_dir,
+                )
+                self.impl = TransformerClassifier(repo_path)
                 return
             except Exception:
                 pass

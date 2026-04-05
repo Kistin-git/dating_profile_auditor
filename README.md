@@ -79,7 +79,7 @@ streamlit run app.py
 1. Сгенерируйте свежий датасет: `python3 training/dataset_builder.py --size 800 --output_dir data`.
 2. Обучите модель: `python3 training/train.py --dataset_path data/synthetic_profiles.csv --output_dir models/rubert_tiny2_profile_classifier` (параметры при необходимости подправьте).
 3. (Опционально) Запустите `training/evaluate.py` для проверки метрик.
-4. Загрузите содержимое `models/rubert_tiny2_profile_classifier` в репозиторий/пространство (или на Hugging Face Hub) и redeploy. Приложение автоматически переключится на кастомный трансформер вместо zero-shot fallback.
+4. Загрузите содержимое `models/rubert_tiny2_profile_classifier` либо прямо в репозиторий, либо в отдельный репозиторий на Hugging Face Hub. Если используете Hub, установите переменные окружения `DPA_MODEL_REPO_ID` (и опционально `DPA_MODEL_REVISION`, `DPA_MODEL_CACHE`) — приложение скачает веса при старте и не будет откатываться к zero-shot fallback.
 В интерфейсе:
 1. Выберите язык UI (по умолчанию RU).
 2. Нажмите на один из примеров или вставьте своё био.

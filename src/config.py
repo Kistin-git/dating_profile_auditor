@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 from dataclasses import dataclass, field
 from typing import Dict, List
 
@@ -101,6 +102,9 @@ class Paths:
     tokenizer_dir: str = model_dir
     config_path: str = "models/rubert_tiny2_profile_classifier/config.json"
     thresholds_path: str = "models/rubert_tiny2_profile_classifier/thresholds.json"
+    hf_repo_id: str | None = os.environ.get("DPA_MODEL_REPO_ID")
+    hf_revision: str | None = os.environ.get("DPA_MODEL_REVISION")
+    hf_cache_dir: str = os.environ.get("DPA_MODEL_CACHE", "models/hf_models")
 
 
 @dataclass

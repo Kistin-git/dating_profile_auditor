@@ -102,12 +102,12 @@ CRITICAL_PATTERNS = {
 
 RESET_CORES = {
     "ru": [
-        "Переписываю анкету с нуля: люблю прогулки, честный диалог и людей с самоиронией.",
-        "Давайте начнём заново: ценю спокойное общение, увлекаюсь чтением и велопрогулками.",
+        "Ценю спокойное общение, увлекаюсь чтением и велопрогулками.",
+        "Люблю прогулки по городу, честные разговоры и людей с самоиронией.",
     ],
     "en": [
-        "Trying again: I enjoy honest chats, morning coffee walks, and people with humor.",
-        "Resetting the vibe: I care about kindness, playlists, and small spontaneous trips.",
+        "I enjoy honest chats, morning coffee walks, and people with humor.",
+        "Kind conversations, slow playlists, and spontaneous trips are my thing.",
     ],
 }
 
@@ -136,6 +136,23 @@ PROFANITY_PATTERNS = {
     ],
 }
 
+SENSITIVE_PATTERNS = {
+    "ru": [
+        r"\bпорно\b",
+        r"\bporno\b",
+        r"\bсекс\b",
+        r"\bsex\b",
+        r"\bочко\b",
+        r"\bжопа\b",
+    ],
+    "en": [
+        r"\bporn\b",
+        r"\bporno\b",
+        r"\bsex\b",
+        r"\bbutt\b",
+    ],
+}
+
 
 def _strip_patterns(text: str, language: str) -> str:
     cleaned = text
@@ -154,7 +171,7 @@ def _ensure_period(text: str) -> str:
 def _sanitize_text(text: str, language: str) -> str:
     filtered_sentences = []
     sentences = re.split(r"(?<=[.!?])\s+", text.strip())
-    profane_patterns = PROFANITY_PATTERNS.get(language, [])
+    profane_patterns = PROFANITY_PATTERNS.get(language, []) + SENSITIVE_PATTERNS.get(language, [])
     for sentence in sentences:
         lowered = sentence.lower()
         if any(re.search(pattern, lowered) for pattern in profane_patterns):

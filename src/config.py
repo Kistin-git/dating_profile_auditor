@@ -171,3 +171,17 @@ class ScoringWeights:
 PATHS = Paths()
 HEURISTICS = HeuristicThresholds()
 SCORING = ScoringWeights()
+
+ZERO_SHOT_LABELS: Dict[str, str] = {
+    "friendly": "звучит дружелюбно и открыто",
+    "confident": "звучит уверенно и цельно",
+    "arrogant": "выглядит высокомерно или снисходительно",
+    "sincere": "похоже на искренний и честный тон",
+    "humorous": "содержит лёгкий юмор и самоиронию",
+    "cliche": "кажется шаблонным и предсказуемым",
+    "aggressive": "звучит агрессивно или резко",
+    "awkward_or_cringe": "смотрится кринжово или неловко",
+}
+
+ZERO_SHOT_TEMPLATE = "Этот текст анкеты {}."
+ZERO_SHOT_MODEL = "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli"

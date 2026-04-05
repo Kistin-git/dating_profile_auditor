@@ -38,7 +38,6 @@ def apply_rewrite_variant(text: str, variant_name: str) -> None:
     st.session_state["bio_editor"] = text
     st.session_state.pop("analysis_result", None)
     st.session_state["applied_variant"] = variant_name
-    st.experimental_rerun()
 
 
 def main() -> None:

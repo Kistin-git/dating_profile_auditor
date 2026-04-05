@@ -7,10 +7,16 @@ from typing import Dict
 import numpy as np
 import torch
 from sentence_transformers import SentenceTransformer
-from torch import nn
-from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from transformers import AutoModelForSequenceClassification, AutoTokenizer, pipeline
 
-from .config import LABELS, PATHS, PROTO_LABEL_TEXTS
+from .config import (
+    LABELS,
+    PATHS,
+    PROTO_LABEL_TEXTS,
+    ZERO_SHOT_LABELS,
+    ZERO_SHOT_MODEL,
+    ZERO_SHOT_TEMPLATE,
+)
 from .heuristics import HeuristicResult, run_heuristics
 from .language_detection import LanguageDetectionResult, detect_language
 from .preprocessing import preprocess_text
@@ -66,14 +72,43 @@ class PrototypeSimilarityClassifier:
         return PredictionResult(probabilities=probabilities, classifier_name="prototype-similarity")
 
 
+class ZeroShotClassifier:
+    def __init__(self, model_name: str = ZERO_SHOT_MODEL) -> None:
+        self.candidate_map = ZERO_SHOT_LABELS
+        self.reverse_map = {desc: label for label, desc in self.candidate_map.items()}
+        self.pipeline = pipeline(
+            "zero-shot-classification",
+            model=model_name,
+            tokenizer=model_name,
+        )
+
+    def predict(self, text: str) -> PredictionResult:
+        candidates = list(self.candidate_map.values())
+        outputs = self.pipeline(
+            text,
+            candidate_labels=candidates,
+            hypothesis_template=ZERO_SHOT_TEMPLATE,
+            multi_label=True,
+        )
+        label_scores = {label: 0.0 for label in LABELS}
+        for candidate, score in zip(outputs["labels"], outputs["scores"]):
+            label = self.reverse_map.get(candidate)
+            if label:
+                label_scores[label] = float(score)
+        return PredictionResult(probabilities=label_scores, classifier_name="zero-shot-mdeberta")
+
+
 class DatingProfileClassifier:
     def __init__(self) -> None:
         if Path(PATHS.model_dir).exists():
             try:
                 self.impl = TransformerClassifier(PATHS.model_dir)
+                return
             except Exception:
-                self.impl = PrototypeSimilarityClassifier()
-        else:
+                pass
+        try:
+            self.impl = ZeroShotClassifier()
+        except Exception:
             self.impl = PrototypeSimilarityClassifier()
 
     def predict(self, text: str) -> PredictionResult:

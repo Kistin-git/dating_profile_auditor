@@ -41,7 +41,7 @@
 
 ## Обучение
 ```bash
-# зависимости для инференса/приложения
+# зависимости для инференса/приложения (на Streamlit Cloud добавьте .streamlit/runtime.txt с python-3.12)
 python3 -m pip install -r requirements.txt
 # добавляем пакеты для пайплайна обучения
 python3 -m pip install -r requirements-train.txt
@@ -70,7 +70,7 @@ python3 training/evaluate.py \
 - Fallback-прототипы используют `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2`, чтобы сервис был полезен даже до дообучения.
 
 ## Локальный запуск UI
-```bash
+# локально или на Streamlit Cloud (зафиксировать python-3.12 в .streamlit/runtime.txt)
 python3 -m pip install -r requirements.txt
 streamlit run app.py
 ```

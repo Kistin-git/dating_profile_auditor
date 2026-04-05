@@ -1,241 +1,641 @@
-text,language,friendly,sincere,humorous,confident,arrogant,cliche,aggressive,awkward_or_cringe,length_bucket,has_emoji
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. не пишите, если ищете просто переписку",ru,0,0,0,0,1,1,1,1,mid,True
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. не люблю опоздания",ru,1,1,1,1,0,0,0,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. умение смеяться над собой обязательно",ru,1,0,1,1,1,0,1,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. не пишите, если ищете просто переписку",ru,0,0,0,1,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. let's keep it fun and nerdy",ru,1,0,1,0,0,1,0,1,short,True
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. ищу без драмы и игр",ru,1,1,1,0,0,1,0,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. и готовлю идеальный чизкейк",ru,1,1,1,0,0,0,0,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. умение смеяться над собой обязательно",ru,1,1,1,0,0,0,0,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. let's keep it fun and nerdy",ru,1,0,1,1,1,0,1,0,mid,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. и готовлю идеальный чизкейк,en,1,1,0,1,1,0,1,0,mid,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. умение смеяться над собой обязательно,en,1,0,1,1,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. let's keep it fun and nerdy",ru,1,0,1,0,0,1,0,1,short,True
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates. умение смеяться над собой обязательно,en,1,1,1,0,0,0,0,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates. не люблю опоздания,en,1,1,0,1,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. мечтаю о кемперах и северных закатах",ru,1,1,1,0,0,0,0,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. ищу без драмы и игр",ru,0,0,0,0,0,1,0,1,short,True
-"Люблю путешествовать и вкусно поесть, ищу без драмы.",ru,0,0,0,0,0,1,0,0,short,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы. не люблю опоздания",ru,0,0,0,1,0,1,0,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. умение смеяться над собой обязательно",ru,1,0,1,1,1,0,1,0,mid,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы.",ru,0,0,0,0,0,1,0,0,short,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы. не пишите, если ищете просто переписку",ru,0,0,0,0,1,1,1,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. ищу без драмы и игр",ru,1,1,1,0,0,1,0,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. люблю порядок и списки задач",ru,1,1,1,1,0,0,0,0,mid,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы.",ru,0,0,0,0,0,1,0,0,short,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы. не люблю опоздания",ru,0,0,0,1,0,1,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. если не умеешь готовить, проходи мимо",ru,1,1,1,0,0,0,1,0,mid,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-"Swipe left unless you can cook better than me and never cancel plans. не пишите, если ищете просто переписку",en,0,0,0,1,1,0,1,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-"Just here for spontaneous city walks and museum dates. не пишите, если ищете просто переписку",en,1,1,0,0,1,0,1,0,mid,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. не люблю опоздания,en,0,0,0,1,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. люблю порядок и списки задач",ru,0,0,0,1,0,1,0,1,short,True
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. умение смеяться над собой обязательно,en,1,0,1,1,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. не пишите, если ищете просто переписку",ru,0,0,0,0,1,1,1,1,mid,True
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. умение смеяться над собой обязательно",ru,1,1,1,0,0,0,0,0,mid,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы.",ru,0,0,0,0,0,1,0,0,short,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы. не пишите, если ищете просто переписку",ru,0,0,0,0,1,1,1,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. не пишите, если ищете просто переписку",ru,0,0,0,1,1,0,1,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates. не люблю опоздания,en,1,1,0,1,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates. люблю порядок и списки задач,en,1,1,0,1,0,0,0,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. люблю порядок и списки задач",ru,0,0,0,1,1,0,1,0,mid,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы.",ru,0,0,0,0,0,1,0,0,short,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы. умение смеяться над собой обязательно",ru,1,0,1,0,0,1,0,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. не люблю опоздания",ru,0,0,0,1,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. не пишите, если ищете просто переписку",ru,0,0,0,0,1,1,1,1,mid,True
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. мечтаю о кемперах и северных закатах,en,1,1,0,1,1,0,1,0,mid,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. умение смеяться над собой обязательно,en,1,0,1,1,1,0,1,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. если не умеешь готовить, проходи мимо",ru,0,0,0,1,1,0,1,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates. не люблю опоздания,en,1,1,0,1,0,0,0,0,short,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. let's keep it fun and nerdy",ru,1,0,1,0,0,1,0,1,short,True
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. люблю порядок и списки задач",ru,0,0,0,1,1,0,1,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. умение смеяться над собой обязательно",ru,1,1,1,0,0,0,0,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. люблю порядок и списки задач",ru,1,1,1,1,0,0,0,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates. не люблю опоздания,en,1,1,0,1,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. умение смеяться над собой обязательно",ru,1,1,1,0,0,0,0,0,mid,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. люблю порядок и списки задач,en,0,0,0,1,1,0,1,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. если не умеешь готовить, проходи мимо",ru,0,0,0,1,1,0,1,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-"Just here for spontaneous city walks and museum dates. если не умеешь готовить, проходи мимо",en,1,1,0,0,0,0,1,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. не люблю опоздания",ru,0,0,0,1,1,0,1,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. умение смеяться над собой обязательно",ru,1,0,1,1,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. let's keep it fun and nerdy",ru,1,0,1,0,0,1,0,1,short,True
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. не люблю опоздания,en,0,0,0,1,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. ищу без драмы и игр",ru,0,0,0,0,0,1,0,1,short,True
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. ищу без драмы и игр,en,0,0,0,1,1,1,1,0,mid,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы.",ru,0,0,0,0,0,1,0,0,short,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы. умение смеяться над собой обязательно",ru,1,0,1,0,0,1,0,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. let's keep it fun and nerdy",ru,1,0,1,1,1,0,1,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-"Just here for spontaneous city walks and museum dates. не пишите, если ищете просто переписку",en,1,1,0,0,1,0,1,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. не пишите, если ищете просто переписку",ru,1,1,1,0,1,0,1,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. мечтаю о кемперах и северных закатах",ru,1,1,0,1,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. ищу без драмы и игр",ru,0,0,0,0,0,1,0,1,short,True
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-"Swipe left unless you can cook better than me and never cancel plans. не пишите, если ищете просто переписку",en,0,0,0,1,1,0,1,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates. ищу без драмы и игр,en,1,1,0,0,0,1,0,0,short,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-"Swipe left unless you can cook better than me and never cancel plans. если не умеешь готовить, проходи мимо",en,0,0,0,1,1,0,1,0,mid,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. не люблю опоздания,en,0,0,0,1,1,0,1,0,mid,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. и готовлю идеальный чизкейк,en,1,1,0,1,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. не пишите, если ищете просто переписку",ru,0,0,0,0,1,1,1,1,mid,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. let's keep it fun and nerdy",ru,1,0,1,0,0,1,0,1,short,True
-"Люблю путешествовать и вкусно поесть, ищу без драмы.",ru,0,0,0,0,0,1,0,0,short,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы. люблю порядок и списки задач",ru,0,0,0,1,0,1,0,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. не люблю опоздания",ru,1,1,1,1,0,0,0,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates. мечтаю о кемперах и северных закатах,en,1,1,0,0,0,0,0,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates. и готовлю идеальный чизкейк,en,1,1,0,0,0,0,0,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. не люблю опоздания",ru,0,0,0,1,0,1,0,1,short,True
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. мечтаю о кемперах и северных закатах,en,1,1,0,1,1,0,1,0,mid,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-"Swipe left unless you can cook better than me and never cancel plans. не пишите, если ищете просто переписку",en,0,0,0,1,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. не люблю опоздания",ru,0,0,0,1,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. let's keep it fun and nerdy",ru,1,0,1,0,0,1,0,1,short,True
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. умение смеяться над собой обязательно,en,1,0,1,1,1,0,1,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. люблю порядок и списки задач",ru,0,0,0,1,1,0,1,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. let's keep it fun and nerdy",ru,1,0,1,1,1,0,1,0,mid,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. и готовлю идеальный чизкейк,en,1,1,0,1,1,0,1,0,mid,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. люблю порядок и списки задач,en,0,0,0,1,1,0,1,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates. и готовлю идеальный чизкейк,en,1,1,0,0,0,0,0,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. люблю порядок и списки задач",ru,1,1,1,1,0,0,0,0,mid,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы.",ru,0,0,0,0,0,1,0,0,short,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы. умение смеяться над собой обязательно",ru,1,0,1,0,0,1,0,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. умение смеяться над собой обязательно",ru,1,1,1,0,0,0,0,0,mid,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-"Swipe left unless you can cook better than me and never cancel plans. не пишите, если ищете просто переписку",en,0,0,0,1,1,0,1,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. если не умеешь готовить, проходи мимо",ru,1,1,1,0,0,0,1,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. let's keep it fun and nerdy",ru,1,1,1,0,0,0,0,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. мечтаю о кемперах и северных закатах",ru,1,1,0,1,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. если не умеешь готовить, проходи мимо",ru,0,0,0,0,0,1,1,1,mid,True
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. мечтаю о кемперах и северных закатах,en,1,1,0,1,1,0,1,0,mid,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы.",ru,0,0,0,0,0,1,0,0,short,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы. let's keep it fun and nerdy",ru,1,0,1,0,0,1,0,0,short,False
-Swipe left unless you can cook better than me and never cancel plans.,en,0,0,0,1,1,0,1,0,short,False
-Swipe left unless you can cook better than me and never cancel plans. ищу без драмы и игр,en,0,0,0,1,1,1,1,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. let's keep it fun and nerdy",ru,1,0,1,1,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. умение смеяться над собой обязательно",ru,1,0,1,0,0,1,0,1,mid,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. не люблю опоздания",ru,0,0,0,1,0,1,0,1,short,True
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates. люблю порядок и списки задач,en,1,1,0,1,0,0,0,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates. let's keep it fun and nerdy,en,1,1,1,0,0,0,0,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-"Just here for spontaneous city walks and museum dates. не пишите, если ищете просто переписку",en,1,1,0,0,1,0,1,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. умение смеяться над собой обязательно",ru,1,0,1,1,1,0,1,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. люблю порядок и списки задач",ru,1,1,1,1,0,0,0,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. let's keep it fun and nerdy",ru,1,1,1,0,0,0,0,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. умение смеяться над собой обязательно",ru,1,0,1,1,1,0,1,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. не пишите, если ищете просто переписку",ru,1,1,1,0,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. и готовлю идеальный чизкейк",ru,1,1,0,0,0,1,0,1,short,True
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. не пишите, если ищете просто переписку",ru,0,0,0,1,1,0,1,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. люблю порядок и списки задач",ru,1,1,1,1,0,0,0,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. let's keep it fun and nerdy",ru,1,1,1,0,0,0,0,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. не люблю опоздания",ru,0,0,0,1,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. если не умеешь готовить, проходи мимо",ru,0,0,0,0,0,1,1,1,mid,True
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. let's keep it fun and nerdy",ru,1,0,1,1,1,0,1,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. если не умеешь готовить, проходи мимо",ru,0,0,0,1,1,0,1,0,mid,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня.",ru,0,0,0,1,1,0,1,0,short,False
-"Не трать моё время, если не амбициозен и не зарабатываешь больше меня. если не умеешь готовить, проходи мимо",ru,0,0,0,1,1,0,1,0,mid,False
-Just here for spontaneous city walks and museum dates.,en,1,1,0,0,0,0,0,0,short,False
-Just here for spontaneous city walks and museum dates. умение смеяться над собой обязательно,en,1,1,1,0,0,0,0,0,mid,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня.",ru,1,1,1,0,0,0,0,0,short,False
-"Люблю готовить рамен, бегаю по утрам и ищу того, кто смеётся громче меня. не пишите, если ищете просто переписку",ru,1,1,1,0,1,0,1,0,mid,False
-"Здесь по приколу 🤪 удиви меня, иначе скучно.",ru,0,0,0,0,0,1,0,1,short,True
-"Здесь по приколу 🤪 удиви меня, иначе скучно. ищу без драмы и игр",ru,0,0,0,0,0,1,0,1,short,True
-"Люблю путешествовать и вкусно поесть, ищу без драмы.",ru,0,0,0,0,0,1,0,0,short,False
-"Люблю путешествовать и вкусно поесть, ищу без драмы. ищу без драмы и игр",ru,0,0,0,0,0,1,0,0,short,False
+text,language,source,friendly,confident,arrogant,sincere,humorous,cliche,aggressive,awkward_or_cringe,length_bucket,has_emoji,has_negative_patterns,has_demands,cliche_count
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. верю, что забота в деталях 🌊🌊🌊 не трать моё время, если не готов к диалогу люблю кино, музыку и прогулки",ru,warm_ru,1,0,1,1,0,1,1,0,mid,True,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. ищу человека, который ценит маленькие ритуалы люблю кино, музыку и прогулки 🌊🌊🌊 люблю кино, музыку и прогулки",ru,funny_ru,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 😅✨ foodie, sunsets, travel ищу человека, который ценит маленькие ритуалы 😅✨",ru,demanding_ru,1,1,1,1,0,1,0,0,mid,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. не трать моё время, если не готов к диалогу bad jokes and good playlists are my love language foodie, sunsets, travel 😅✨",ru,cliche_ru,0,0,1,0,1,1,1,0,mid,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. don't text unless you keep promises looking for someone kind and curious 🌊🌊🌊",ru,awkward_ru,1,0,1,1,0,1,1,1,mid,True,True,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. не трать моё время, если не готов к диалогу 😂🔥 люблю кино, музыку и прогулки люблю кино, музыку и прогулки",ru,aggressive_ru,0,0,1,0,0,1,1,0,mid,True,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. умею смеяться над собой и над странными датами",ru,confident_ru,1,1,0,0,1,0,0,0,mid,False,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. bad jokes and good playlists are my love language не трать моё время, если не готов к диалогу",en,warm_en,1,0,1,1,1,0,1,0,mid,False,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. looking for someone kind and curious умею смеяться над собой и над странными датами не трать моё время, если не готов к диалогу",en,funny_en,1,0,1,1,1,0,1,0,mid,False,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. 😅✨ умею смеяться над собой и над странными датами не трать моё время, если не готов к диалогу",en,demanding_en,0,1,1,0,1,0,1,0,mid,True,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. не трать моё время, если не готов к диалогу looking for someone kind and curious",ru,warm_ru,1,0,1,1,0,0,1,0,mid,False,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. foodie, sunsets, travel 🌊🌊🌊 don't text unless you keep promises foodie, sunsets, travel",ru,funny_ru,1,0,1,0,1,1,1,0,mid,True,True,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 😅✨ люблю кино, музыку и прогулки 😅✨",ru,demanding_ru,0,1,1,0,0,1,0,0,mid,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. ищу человека, который ценит маленькие ритуалы люблю кино, музыку и прогулки",ru,cliche_ru,1,0,0,1,0,1,0,0,mid,False,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. 😅✨ верю, что забота в деталях",ru,awkward_ru,1,0,0,1,0,1,0,1,short,True,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. 😂🔥 looking for someone kind and curious foodie, sunsets, travel",ru,aggressive_ru,1,0,1,1,0,1,1,0,mid,True,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. верю, что забота в деталях не трать моё время, если не готов к диалогу",ru,confident_ru,1,1,1,1,0,0,1,0,mid,False,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. не трать моё время, если не готов к диалогу bad jokes and good playlists are my love language 😂🔥",en,warm_en,1,0,1,1,1,0,1,0,mid,True,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. bad jokes and good playlists are my love language верю, что забота в деталях foodie, sunsets, travel",en,funny_en,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. умею смеяться над собой и над странными датами looking for someone kind and curious 😅✨",en,demanding_en,1,1,1,1,1,0,0,0,mid,True,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. 🌊🌊🌊 foodie, sunsets, travel",ru,warm_ru,1,0,0,1,0,1,0,0,short,True,False,False,1
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. don't text unless you keep promises,ru,funny_ru,1,0,1,0,1,0,1,0,mid,False,True,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. bad jokes and good playlists are my love language don't text unless you keep promises 😂🔥",ru,demanding_ru,0,1,1,0,1,0,1,0,mid,True,True,True,0
+"Люблю путешествовать, закаты и вкусно поесть. не трать моё время, если не готов к диалогу",ru,cliche_ru,0,0,1,0,0,1,1,0,short,False,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. ищу человека, который ценит маленькие ритуалы 🌊🌊🌊",ru,awkward_ru,1,0,0,1,0,1,0,1,mid,True,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. не трать моё время, если не готов к диалогу",ru,aggressive_ru,0,0,1,0,0,0,1,0,mid,False,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. bad jokes and good playlists are my love language 🌊🌊🌊",ru,confident_ru,1,1,0,0,1,0,0,0,mid,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. ищу человека, который ценит маленькие ритуалы",en,warm_en,1,0,0,1,0,0,0,0,mid,False,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. люблю кино, музыку и прогулки ищу человека, который ценит маленькие ритуалы",en,funny_en,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. умею смеяться над собой и над странными датами foodie, sunsets, travel 🌊🌊🌊",en,demanding_en,0,1,1,0,1,1,0,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. люблю кино, музыку и прогулки bad jokes and good playlists are my love language",ru,warm_ru,1,0,0,1,1,1,0,0,mid,False,False,False,1
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. looking for someone kind and curious,ru,funny_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. умею смеяться над собой и над странными датами",ru,demanding_ru,0,1,1,0,1,0,0,0,mid,False,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. верю, что забота в деталях умею смеяться над собой и над странными датами",ru,cliche_ru,1,0,0,1,1,1,0,0,mid,False,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. don't text unless you keep promises люблю кино, музыку и прогулки люблю кино, музыку и прогулки",ru,awkward_ru,0,0,1,0,0,1,1,1,mid,False,True,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. 😅✨ ищу человека, который ценит маленькие ритуалы не трать моё время, если не готов к диалогу",ru,aggressive_ru,1,0,1,1,0,0,1,0,mid,True,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. умею смеяться над собой и над странными датами ищу человека, который ценит маленькие ритуалы не трать моё время, если не готов к диалогу",ru,confident_ru,1,1,1,1,1,0,1,0,mid,False,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. люблю кино, музыку и прогулки",en,warm_en,1,0,0,1,0,1,0,0,short,False,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. 🌊🌊🌊 верю, что забота в деталях don't text unless you keep promises",en,funny_en,1,0,1,1,1,0,1,0,mid,True,True,False,0
+"Swipe left unless you're proactive, tall, and know your goals. don't text unless you keep promises умею смеяться над собой и над странными датами foodie, sunsets, travel",en,demanding_en,0,1,1,0,1,1,1,0,mid,False,True,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. верю, что забота в деталях",ru,warm_ru,1,0,0,1,0,0,0,0,short,False,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. looking for someone kind and curious foodie, sunsets, travel 😅✨",ru,funny_ru,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. bad jokes and good playlists are my love language",ru,demanding_ru,0,1,1,0,1,0,0,0,mid,False,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. don't text unless you keep promises looking for someone kind and curious 🌊🌊🌊 🌊🌊🌊",ru,cliche_ru,1,0,1,1,0,1,1,0,mid,True,True,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. 🌊🌊🌊",ru,awkward_ru,0,0,0,0,0,1,0,1,short,True,False,False,0
+Хватит людей без целей: если только лежишь на диване — мимо. don't text unless you keep promises bad jokes and good playlists are my love language 😅✨,ru,aggressive_ru,0,0,1,0,1,0,1,0,mid,True,True,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. foodie, sunsets, travel foodie, sunsets, travel",ru,confident_ru,1,1,0,0,0,1,0,0,mid,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. don't text unless you keep promises bad jokes and good playlists are my love language 😂🔥 люблю кино, музыку и прогулки",en,warm_en,1,0,1,1,1,1,1,0,mid,True,True,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. умею смеяться над собой и над странными датами верю, что забота в деталях 🌊🌊🌊 foodie, sunsets, travel",en,funny_en,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. не трать моё время, если не готов к диалогу",en,demanding_en,0,1,1,0,0,0,1,0,mid,False,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. 😂🔥 люблю кино, музыку и прогулки",ru,warm_ru,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. bad jokes and good playlists are my love language foodie, sunsets, travel",ru,funny_ru,1,0,0,0,1,1,0,0,mid,False,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. умею смеяться над собой и над странными датами не трать моё время, если не готов к диалогу 😅✨",ru,demanding_ru,0,1,1,0,1,0,1,0,mid,True,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. bad jokes and good playlists are my love language",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,False,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. умею смеяться над собой и над странными датами",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,False,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. верю, что забота в деталях don't text unless you keep promises",ru,aggressive_ru,1,0,1,1,0,0,1,0,mid,False,True,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. верю, что забота в деталях 🌊🌊🌊",ru,confident_ru,1,1,0,1,0,0,0,0,short,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. looking for someone kind and curious",en,warm_en,1,0,0,1,0,0,0,0,mid,False,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. foodie, sunsets, travel looking for someone kind and curious люблю кино, музыку и прогулки",en,funny_en,1,0,0,1,1,1,0,0,mid,False,False,False,2
+"Swipe left unless you're proactive, tall, and know your goals. 😂🔥",en,demanding_en,0,1,1,0,0,0,0,0,short,True,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. умею смеяться над собой и над странными датами don't text unless you keep promises 😂🔥",ru,warm_ru,1,0,1,1,1,0,1,0,mid,True,True,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. don't text unless you keep promises 😅✨ foodie, sunsets, travel",ru,funny_ru,1,0,1,0,1,1,1,0,mid,True,True,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. foodie, sunsets, travel",ru,demanding_ru,0,1,1,0,0,1,0,0,short,False,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. 😂🔥 не трать моё время, если не готов к диалогу bad jokes and good playlists are my love language",ru,cliche_ru,0,0,1,0,1,1,1,0,mid,True,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. 😅✨ don't text unless you keep promises умею смеяться над собой и над странными датами",ru,awkward_ru,0,0,1,0,1,1,1,1,mid,True,True,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. bad jokes and good playlists are my love language ищу человека, который ценит маленькие ритуалы 🌊🌊🌊",ru,aggressive_ru,1,0,1,1,1,0,1,0,mid,True,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. умею смеяться над собой и над странными датами foodie, sunsets, travel",ru,confident_ru,1,1,0,0,1,1,0,0,mid,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. foodie, sunsets, travel",en,warm_en,1,0,0,1,0,1,0,0,short,False,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. люблю кино, музыку и прогулки 🌊🌊🌊 умею смеяться над собой и над странными датами",en,funny_en,1,0,0,0,1,1,0,0,mid,True,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. люблю кино, музыку и прогулки foodie, sunsets, travel 🌊🌊🌊",en,demanding_en,0,1,1,0,0,1,0,0,mid,True,False,False,2
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. люблю кино, музыку и прогулки",ru,warm_ru,1,0,0,1,0,1,0,0,mid,False,False,False,1
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. 😂🔥 don't text unless you keep promises bad jokes and good playlists are my love language,ru,funny_ru,1,0,1,0,1,0,1,0,mid,True,True,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. люблю кино, музыку и прогулки don't text unless you keep promises",ru,demanding_ru,0,1,1,0,0,1,1,0,mid,False,True,True,1
+"Люблю путешествовать, закаты и вкусно поесть. умею смеяться над собой и над странными датами don't text unless you keep promises 🌊🌊🌊",ru,cliche_ru,0,0,1,0,1,1,1,0,mid,True,True,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. ищу человека, который ценит маленькие ритуалы bad jokes and good playlists are my love language 😂🔥 люблю кино, музыку и прогулки 😅✨",ru,awkward_ru,1,0,0,1,1,1,0,1,mid,True,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. 😅✨ люблю кино, музыку и прогулки foodie, sunsets, travel",ru,aggressive_ru,0,0,1,0,0,1,1,0,mid,True,False,False,2
+"Инженер, люблю запускать проекты и ценю честные разговоры. ищу человека, который ценит маленькие ритуалы foodie, sunsets, travel bad jokes and good playlists are my love language",ru,confident_ru,1,1,0,1,1,1,0,0,mid,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. 😅✨ умею смеяться над собой и над странными датами",en,warm_en,1,0,0,1,1,0,0,0,mid,True,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. не трать моё время, если не готов к диалогу foodie, sunsets, travel",en,funny_en,1,0,1,0,1,1,1,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. looking for someone kind and curious люблю кино, музыку и прогулки не трать моё время, если не готов к диалогу 😅✨",en,demanding_en,1,1,1,1,0,1,1,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. верю, что забота в деталях",ru,warm_ru,1,0,0,1,0,0,0,0,short,False,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. don't text unless you keep promises foodie, sunsets, travel 🌊🌊🌊",ru,funny_ru,1,0,1,0,1,1,1,0,mid,True,True,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 🌊🌊🌊 looking for someone kind and curious умею смеяться над собой и над странными датами",ru,demanding_ru,1,1,1,1,1,0,0,0,mid,True,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. умею смеяться над собой и над странными датами",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,False,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. bad jokes and good playlists are my love language",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,False,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. foodie, sunsets, travel 😂🔥",ru,aggressive_ru,0,0,1,0,0,1,1,0,short,True,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. ищу человека, который ценит маленькие ритуалы умею смеяться над собой и над странными датами foodie, sunsets, travel",ru,confident_ru,1,1,0,1,1,1,0,0,mid,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. люблю кино, музыку и прогулки умею смеяться над собой и над странными датами foodie, sunsets, travel",en,warm_en,1,0,0,1,1,1,0,0,mid,False,False,False,2
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. looking for someone kind and curious 😅✨ bad jokes and good playlists are my love language foodie, sunsets, travel 😅✨",en,funny_en,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. верю, что забота в деталях foodie, sunsets, travel",en,demanding_en,1,1,1,1,0,1,0,0,mid,False,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. 😂🔥 don't text unless you keep promises foodie, sunsets, travel",ru,warm_ru,1,0,1,1,0,1,1,0,mid,True,True,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. не трать моё время, если не готов к диалогу bad jokes and good playlists are my love language",ru,funny_ru,1,0,1,0,1,0,1,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 😅✨ люблю кино, музыку и прогулки",ru,demanding_ru,0,1,1,0,0,1,0,0,mid,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. bad jokes and good playlists are my love language don't text unless you keep promises",ru,cliche_ru,0,0,1,0,1,1,1,0,mid,False,True,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. 😂🔥 ищу человека, который ценит маленькие ритуалы foodie, sunsets, travel",ru,awkward_ru,1,0,0,1,0,1,0,1,mid,True,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. foodie, sunsets, travel 😅✨",ru,aggressive_ru,0,0,1,0,0,1,1,0,short,True,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. люблю кино, музыку и прогулки",ru,confident_ru,1,1,0,0,0,1,0,0,short,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. 😅✨ don't text unless you keep promises",en,warm_en,1,0,1,1,0,0,1,0,mid,True,True,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. не трать моё время, если не готов к диалогу умею смеяться над собой и над странными датами",en,funny_en,1,0,1,0,1,0,1,0,mid,False,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. bad jokes and good playlists are my love language 😅✨ looking for someone kind and curious",en,demanding_en,1,1,1,1,1,0,0,0,mid,True,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. don't text unless you keep promises ищу человека, который ценит маленькие ритуалы foodie, sunsets, travel люблю кино, музыку и прогулки",ru,warm_ru,1,0,1,1,0,1,1,0,mid,False,True,False,2
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. не трать моё время, если не готов к диалогу",ru,funny_ru,1,0,1,0,1,0,1,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. умею смеяться над собой и над странными датами foodie, sunsets, travel верю, что забота в деталях",ru,demanding_ru,1,1,1,1,1,1,0,0,mid,False,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. don't text unless you keep promises люблю кино, музыку и прогулки",ru,cliche_ru,0,0,1,0,0,1,1,0,mid,False,True,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. 😂🔥 😂🔥",ru,awkward_ru,0,0,0,0,0,1,0,1,short,True,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. ищу человека, который ценит маленькие ритуалы bad jokes and good playlists are my love language",ru,aggressive_ru,1,0,1,1,1,0,1,0,mid,False,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. 😅✨",ru,confident_ru,1,1,0,0,0,0,0,0,short,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. люблю кино, музыку и прогулки не трать моё время, если не готов к диалогу 🌊🌊🌊",en,warm_en,1,0,1,1,0,1,1,0,mid,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. умею смеяться над собой и над странными датами люблю кино, музыку и прогулки 😅✨",en,funny_en,1,0,0,0,1,1,0,0,mid,True,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. 😅✨ люблю кино, музыку и прогулки foodie, sunsets, travel",en,demanding_en,0,1,1,0,0,1,0,0,mid,True,False,False,2
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. верю, что забота в деталях умею смеяться над собой и над странными датами",ru,warm_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. умею смеяться над собой и над странными датами не трать моё время, если не готов к диалогу ищу человека, который ценит маленькие ритуалы",ru,funny_ru,1,0,1,1,1,0,1,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. don't text unless you keep promises foodie, sunsets, travel looking for someone kind and curious",ru,demanding_ru,1,1,1,1,0,1,1,0,mid,False,True,True,1
+"Люблю путешествовать, закаты и вкусно поесть. люблю кино, музыку и прогулки 😅✨ looking for someone kind and curious",ru,cliche_ru,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. умею смеяться над собой и над странными датами",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,False,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. 🌊🌊🌊 верю, что забота в деталях",ru,aggressive_ru,1,0,1,1,0,0,1,0,mid,True,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. bad jokes and good playlists are my love language люблю кино, музыку и прогулки",ru,confident_ru,1,1,0,0,1,1,0,0,mid,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. верю, что забота в деталях bad jokes and good playlists are my love language",en,warm_en,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. 😅✨ ищу человека, который ценит маленькие ритуалы",en,funny_en,1,0,0,1,1,0,0,0,mid,True,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. 😂🔥 looking for someone kind and curious 😂🔥",en,demanding_en,1,1,1,1,0,0,0,0,mid,True,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. 😂🔥 foodie, sunsets, travel",ru,warm_ru,1,0,0,1,0,1,0,0,short,True,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. bad jokes and good playlists are my love language не трать моё время, если не готов к диалогу 🌊🌊🌊",ru,funny_ru,1,0,1,0,1,0,1,0,mid,True,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. bad jokes and good playlists are my love language",ru,demanding_ru,0,1,1,0,1,0,0,0,mid,False,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. умею смеяться над собой и над странными датами 🌊🌊🌊",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,True,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. don't text unless you keep promises 😅✨",ru,awkward_ru,0,0,1,0,0,1,1,1,mid,True,True,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. умею смеяться над собой и над странными датами люблю кино, музыку и прогулки верю, что забота в деталях",ru,aggressive_ru,1,0,1,1,1,1,1,0,mid,False,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. 🌊🌊🌊 don't text unless you keep promises",ru,confident_ru,1,1,1,0,0,0,1,0,mid,True,True,False,0
+"Coffee geek, dog person and believer in gentle mornings. foodie, sunsets, travel bad jokes and good playlists are my love language 😅✨",en,warm_en,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. не трать моё время, если не готов к диалогу bad jokes and good playlists are my love language foodie, sunsets, travel 😂🔥",en,funny_en,1,0,1,0,1,1,1,0,mid,True,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. люблю кино, музыку и прогулки 😅✨ 😂🔥",en,demanding_en,0,1,1,0,0,1,0,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. ищу человека, который ценит маленькие ритуалы foodie, sunsets, travel люблю кино, музыку и прогулки",ru,warm_ru,1,0,0,1,0,1,0,0,mid,False,False,False,2
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. bad jokes and good playlists are my love language верю, что забота в деталях 😂🔥",ru,funny_ru,1,0,0,1,1,0,0,0,mid,True,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 😅✨ foodie, sunsets, travel 🌊🌊🌊",ru,demanding_ru,0,1,1,0,0,1,0,0,mid,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. не трать моё время, если не готов к диалогу",ru,cliche_ru,0,0,1,0,0,1,1,0,short,False,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. верю, что забота в деталях foodie, sunsets, travel",ru,awkward_ru,1,0,0,1,0,1,0,1,mid,False,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. не трать моё время, если не готов к диалогу",ru,aggressive_ru,0,0,1,0,0,0,1,0,mid,False,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. bad jokes and good playlists are my love language",ru,confident_ru,1,1,0,0,1,0,0,0,mid,False,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. умею смеяться над собой и над странными датами",en,warm_en,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. умею смеяться над собой и над странными датами люблю кино, музыку и прогулки don't text unless you keep promises",en,funny_en,1,0,1,0,1,1,1,0,mid,False,True,False,1
+"Swipe left unless you're proactive, tall, and know your goals. looking for someone kind and curious люблю кино, музыку и прогулки умею смеяться над собой и над странными датами",en,demanding_en,1,1,1,1,1,1,0,0,mid,False,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. don't text unless you keep promises foodie, sunsets, travel 😅✨ foodie, sunsets, travel",ru,warm_ru,1,0,1,1,0,1,1,0,mid,True,True,False,1
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. bad jokes and good playlists are my love language,ru,funny_ru,1,0,0,0,1,0,0,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. don't text unless you keep promises верю, что забота в деталях 🌊🌊🌊",ru,demanding_ru,1,1,1,1,0,0,1,0,mid,True,True,True,0
+"Люблю путешествовать, закаты и вкусно поесть. ищу человека, который ценит маленькие ритуалы foodie, sunsets, travel умею смеяться над собой и над странными датами",ru,cliche_ru,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. умею смеяться над собой и над странными датами верю, что забота в деталях don't text unless you keep promises foodie, sunsets, travel",ru,awkward_ru,1,0,1,1,1,1,1,1,mid,False,True,False,1
+Хватит людей без целей: если только лежишь на диване — мимо. don't text unless you keep promises 🌊🌊🌊,ru,aggressive_ru,0,0,1,0,0,0,1,0,mid,True,True,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. don't text unless you keep promises 😅✨ верю, что забота в деталях",ru,confident_ru,1,1,1,1,0,0,1,0,mid,True,True,False,0
+"Coffee geek, dog person and believer in gentle mornings. люблю кино, музыку и прогулки люблю кино, музыку и прогулки",en,warm_en,1,0,0,1,0,1,0,0,mid,False,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. foodie, sunsets, travel не трать моё время, если не готов к диалогу верю, что забота в деталях",en,funny_en,1,0,1,1,1,1,1,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. don't text unless you keep promises люблю кино, музыку и прогулки 😂🔥 люблю кино, музыку и прогулки",en,demanding_en,0,1,1,0,0,1,1,0,mid,True,True,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. не трать моё время, если не готов к диалогу bad jokes and good playlists are my love language 😂🔥",ru,warm_ru,1,0,1,1,1,0,1,0,mid,True,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. ищу человека, который ценит маленькие ритуалы",ru,funny_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. умею смеяться над собой и над странными датами",ru,demanding_ru,0,1,1,0,1,0,0,0,mid,False,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. 😂🔥 люблю кино, музыку и прогулки don't text unless you keep promises",ru,cliche_ru,0,0,1,0,0,1,1,0,mid,True,True,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. foodie, sunsets, travel не трать моё время, если не готов к диалогу верю, что забота в деталях",ru,awkward_ru,1,0,1,1,0,1,1,1,mid,False,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. looking for someone kind and curious don't text unless you keep promises foodie, sunsets, travel",ru,aggressive_ru,1,0,1,1,0,1,1,0,mid,False,True,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. люблю кино, музыку и прогулки",ru,confident_ru,1,1,0,0,0,1,0,0,short,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. ищу человека, который ценит маленькие ритуалы 🌊🌊🌊 умею смеяться над собой и над странными датами люблю кино, музыку и прогулки",en,warm_en,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. не трать моё время, если не готов к диалогу",en,funny_en,1,0,1,0,1,0,1,0,mid,False,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. bad jokes and good playlists are my love language 🌊🌊🌊 люблю кино, музыку и прогулки 😅✨",en,demanding_en,0,1,1,0,1,1,0,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. 😅✨ foodie, sunsets, travel 😂🔥",ru,warm_ru,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. 😂🔥 ищу человека, который ценит маленькие ритуалы",ru,funny_ru,1,0,0,1,1,0,0,0,mid,True,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 😂🔥 ищу человека, который ценит маленькие ритуалы умею смеяться над собой и над странными датами",ru,demanding_ru,1,1,1,1,1,0,0,0,mid,True,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. 😂🔥 не трать моё время, если не готов к диалогу умею смеяться над собой и над странными датами",ru,cliche_ru,0,0,1,0,1,1,1,0,mid,True,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. looking for someone kind and curious foodie, sunsets, travel люблю кино, музыку и прогулки",ru,awkward_ru,1,0,0,1,0,1,0,1,mid,False,False,False,2
+"Хватит людей без целей: если только лежишь на диване — мимо. ищу человека, который ценит маленькие ритуалы",ru,aggressive_ru,1,0,1,1,0,0,1,0,mid,False,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. don't text unless you keep promises foodie, sunsets, travel 😂🔥 😂🔥",ru,confident_ru,1,1,1,0,0,1,1,0,mid,True,True,False,1
+"Coffee geek, dog person and believer in gentle mornings. 😂🔥",en,warm_en,1,0,0,1,0,0,0,0,short,True,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. foodie, sunsets, travel",en,funny_en,1,0,0,0,1,1,0,0,short,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. верю, что забота в деталях don't text unless you keep promises bad jokes and good playlists are my love language",en,demanding_en,1,1,1,1,1,0,1,0,mid,False,True,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. ищу человека, который ценит маленькие ритуалы 🌊🌊🌊",ru,warm_ru,1,0,0,1,0,0,0,0,mid,True,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. bad jokes and good playlists are my love language looking for someone kind and curious foodie, sunsets, travel",ru,funny_ru,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. looking for someone kind and curious don't text unless you keep promises",ru,demanding_ru,1,1,1,1,0,0,1,0,mid,False,True,True,0
+"Люблю путешествовать, закаты и вкусно поесть. bad jokes and good playlists are my love language люблю кино, музыку и прогулки",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,False,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. не трать моё время, если не готов к диалогу верю, что забота в деталях умею смеяться над собой и над странными датами",ru,awkward_ru,1,0,1,1,1,1,1,1,mid,False,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. don't text unless you keep promises looking for someone kind and curious foodie, sunsets, travel",ru,aggressive_ru,1,0,1,1,0,1,1,0,mid,False,True,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. bad jokes and good playlists are my love language люблю кино, музыку и прогулки 😂🔥",ru,confident_ru,1,1,0,0,1,1,0,0,mid,True,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. foodie, sunsets, travel 😅✨",en,warm_en,1,0,0,1,0,1,0,0,short,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. не трать моё время, если не готов к диалогу ищу человека, который ценит маленькие ритуалы люблю кино, музыку и прогулки",en,funny_en,1,0,1,1,1,1,1,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. foodie, sunsets, travel 😅✨ don't text unless you keep promises люблю кино, музыку и прогулки",en,demanding_en,0,1,1,0,0,1,1,0,mid,True,True,False,2
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. don't text unless you keep promises",ru,warm_ru,1,0,1,1,0,0,1,0,mid,False,True,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. люблю кино, музыку и прогулки foodie, sunsets, travel",ru,funny_ru,1,0,0,0,1,1,0,0,mid,False,False,False,2
+"Без амбиций и цели не пишите: я ценю людей, которые растут. don't text unless you keep promises 😂🔥",ru,demanding_ru,0,1,1,0,0,0,1,0,mid,True,True,True,0
+"Люблю путешествовать, закаты и вкусно поесть. bad jokes and good playlists are my love language 😂🔥",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,True,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. не трать моё время, если не готов к диалогу верю, что забота в деталях умею смеяться над собой и над странными датами 😅✨",ru,awkward_ru,1,0,1,1,1,1,1,1,mid,True,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. foodie, sunsets, travel 😅✨ не трать моё время, если не готов к диалогу",ru,aggressive_ru,0,0,1,0,0,1,1,0,mid,True,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. 😅✨",ru,confident_ru,1,1,0,0,0,0,0,0,short,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. люблю кино, музыку и прогулки foodie, sunsets, travel",en,warm_en,1,0,0,1,0,1,0,0,mid,False,False,False,2
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. не трать моё время, если не готов к диалогу 😅✨ 😂🔥",en,funny_en,1,0,1,0,1,0,1,0,mid,True,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. 😂🔥 foodie, sunsets, travel",en,demanding_en,0,1,1,0,0,1,0,0,short,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. умею смеяться над собой и над странными датами 😅✨ ищу человека, который ценит маленькие ритуалы люблю кино, музыку и прогулки",ru,warm_ru,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. верю, что забота в деталях bad jokes and good playlists are my love language don't text unless you keep promises",ru,funny_ru,1,0,1,1,1,0,1,0,mid,False,True,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 😅✨ не трать моё время, если не готов к диалогу foodie, sunsets, travel foodie, sunsets, travel",ru,demanding_ru,0,1,1,0,0,1,1,0,mid,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. 😅✨ looking for someone kind and curious foodie, sunsets, travel",ru,cliche_ru,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. don't text unless you keep promises люблю кино, музыку и прогулки",ru,awkward_ru,0,0,1,0,0,1,1,1,mid,False,True,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. люблю кино, музыку и прогулки 😅✨ не трать моё время, если не готов к диалогу",ru,aggressive_ru,0,0,1,0,0,1,1,0,mid,True,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. верю, что забота в деталях foodie, sunsets, travel",ru,confident_ru,1,1,0,1,0,1,0,0,mid,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. 😂🔥 люблю кино, музыку и прогулки",en,warm_en,1,0,0,1,0,1,0,0,short,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. 😅✨ bad jokes and good playlists are my love language",en,funny_en,1,0,0,0,1,0,0,0,mid,True,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. 😂🔥 looking for someone kind and curious",en,demanding_en,1,1,1,1,0,0,0,0,mid,True,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. люблю кино, музыку и прогулки don't text unless you keep promises умею смеяться над собой и над странными датами 😅✨",ru,warm_ru,1,0,1,1,1,1,1,0,mid,True,True,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. люблю кино, музыку и прогулки bad jokes and good playlists are my love language",ru,funny_ru,1,0,0,0,1,1,0,0,mid,False,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. bad jokes and good playlists are my love language looking for someone kind and curious",ru,demanding_ru,1,1,1,1,1,0,0,0,mid,False,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. bad jokes and good playlists are my love language",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,False,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. умею смеяться над собой и над странными датами люблю кино, музыку и прогулки",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,False,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. 😅✨ looking for someone kind and curious не трать моё время, если не готов к диалогу 🌊🌊🌊",ru,aggressive_ru,1,0,1,1,0,0,1,0,mid,True,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. 😅✨ умею смеяться над собой и над странными датами don't text unless you keep promises",ru,confident_ru,1,1,1,0,1,0,1,0,mid,True,True,False,0
+"Coffee geek, dog person and believer in gentle mornings. 😂🔥 don't text unless you keep promises люблю кино, музыку и прогулки",en,warm_en,1,0,1,1,0,1,1,0,mid,True,True,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. bad jokes and good playlists are my love language don't text unless you keep promises",en,funny_en,1,0,1,0,1,0,1,0,mid,False,True,False,0
+"Swipe left unless you're proactive, tall, and know your goals. 🌊🌊🌊 люблю кино, музыку и прогулки верю, что забота в деталях foodie, sunsets, travel",en,demanding_en,1,1,1,1,0,1,0,0,mid,True,False,False,2
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. ищу человека, который ценит маленькие ритуалы 🌊🌊🌊 bad jokes and good playlists are my love language",ru,warm_ru,1,0,0,1,1,0,0,0,mid,True,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. верю, что забота в деталях bad jokes and good playlists are my love language",ru,funny_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 🌊🌊🌊 don't text unless you keep promises",ru,demanding_ru,0,1,1,0,0,0,1,0,mid,True,True,True,0
+"Люблю путешествовать, закаты и вкусно поесть. не трать моё время, если не готов к диалогу",ru,cliche_ru,0,0,1,0,0,1,1,0,short,False,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. умею смеяться над собой и над странными датами",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,False,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. умею смеяться над собой и над странными датами люблю кино, музыку и прогулки 🌊🌊🌊",ru,aggressive_ru,0,0,1,0,1,1,1,0,mid,True,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. 😅✨ люблю кино, музыку и прогулки верю, что забота в деталях люблю кино, музыку и прогулки",ru,confident_ru,1,1,0,1,0,1,0,0,mid,True,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. foodie, sunsets, travel looking for someone kind and curious 😂🔥 люблю кино, музыку и прогулки",en,warm_en,1,0,0,1,0,1,0,0,mid,True,False,False,2
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. foodie, sunsets, travel ищу человека, который ценит маленькие ритуалы",en,funny_en,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. looking for someone kind and curious не трать моё время, если не готов к диалогу 😅✨ 😅✨",en,demanding_en,1,1,1,1,0,0,1,0,mid,True,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. don't text unless you keep promises ищу человека, который ценит маленькие ритуалы",ru,warm_ru,1,0,1,1,0,0,1,0,mid,False,True,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. ищу человека, который ценит маленькие ритуалы don't text unless you keep promises 😂🔥",ru,funny_ru,1,0,1,1,1,0,1,0,mid,True,True,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. люблю кино, музыку и прогулки 🌊🌊🌊 не трать моё время, если не готов к диалогу",ru,demanding_ru,0,1,1,0,0,1,1,0,mid,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. не трать моё время, если не готов к диалогу люблю кино, музыку и прогулки",ru,cliche_ru,0,0,1,0,0,1,1,0,mid,False,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. don't text unless you keep promises foodie, sunsets, travel люблю кино, музыку и прогулки",ru,awkward_ru,0,0,1,0,0,1,1,1,mid,False,True,False,2
+"Хватит людей без целей: если только лежишь на диване — мимо. don't text unless you keep promises foodie, sunsets, travel",ru,aggressive_ru,0,0,1,0,0,1,1,0,mid,False,True,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. foodie, sunsets, travel 🌊🌊🌊",ru,confident_ru,1,1,0,0,0,1,0,0,short,True,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. don't text unless you keep promises ищу человека, который ценит маленькие ритуалы 😅✨",en,warm_en,1,0,1,1,0,0,1,0,mid,True,True,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. не трать моё время, если не готов к диалогу 😅✨ looking for someone kind and curious",en,funny_en,1,0,1,1,1,0,1,0,mid,True,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. foodie, sunsets, travel bad jokes and good playlists are my love language don't text unless you keep promises foodie, sunsets, travel",en,demanding_en,0,1,1,0,1,1,1,0,mid,False,True,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. не трать моё время, если не готов к диалогу looking for someone kind and curious",ru,warm_ru,1,0,1,1,0,0,1,0,mid,False,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. bad jokes and good playlists are my love language ищу человека, который ценит маленькие ритуалы люблю кино, музыку и прогулки foodie, sunsets, travel",ru,funny_ru,1,0,0,1,1,1,0,0,mid,False,False,False,2
+"Без амбиций и цели не пишите: я ценю людей, которые растут. верю, что забота в деталях bad jokes and good playlists are my love language don't text unless you keep promises 🌊🌊🌊",ru,demanding_ru,1,1,1,1,1,0,1,0,mid,True,True,True,0
+"Люблю путешествовать, закаты и вкусно поесть. don't text unless you keep promises люблю кино, музыку и прогулки умею смеяться над собой и над странными датами люблю кино, музыку и прогулки",ru,cliche_ru,0,0,1,0,1,1,1,0,mid,False,True,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. 😅✨ верю, что забота в деталях",ru,awkward_ru,1,0,0,1,0,1,0,1,short,True,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. не трать моё время, если не готов к диалогу люблю кино, музыку и прогулки ищу человека, который ценит маленькие ритуалы",ru,aggressive_ru,1,0,1,1,0,1,1,0,mid,False,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. looking for someone kind and curious don't text unless you keep promises",ru,confident_ru,1,1,1,1,0,0,1,0,mid,False,True,False,0
+"Coffee geek, dog person and believer in gentle mornings. не трать моё время, если не готов к диалогу bad jokes and good playlists are my love language 🌊🌊🌊",en,warm_en,1,0,1,1,1,0,1,0,mid,True,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. bad jokes and good playlists are my love language foodie, sunsets, travel",en,funny_en,1,0,0,0,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. bad jokes and good playlists are my love language верю, что забота в деталях foodie, sunsets, travel",en,demanding_en,1,1,1,1,1,1,0,0,mid,False,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. looking for someone kind and curious умею смеяться над собой и над странными датами foodie, sunsets, travel",ru,warm_ru,1,0,0,1,1,1,0,0,mid,False,False,False,1
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. 😂🔥,ru,funny_ru,1,0,0,0,1,0,0,0,short,True,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. люблю кино, музыку и прогулки",ru,demanding_ru,0,1,1,0,0,1,0,0,short,False,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. bad jokes and good playlists are my love language 😂🔥 foodie, sunsets, travel",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. умею смеяться над собой и над странными датами don't text unless you keep promises 😂🔥",ru,awkward_ru,0,0,1,0,1,1,1,1,mid,True,True,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. 😂🔥 foodie, sunsets, travel",ru,aggressive_ru,0,0,1,0,0,1,1,0,short,True,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. ищу человека, который ценит маленькие ритуалы 😂🔥 foodie, sunsets, travel",ru,confident_ru,1,1,0,1,0,1,0,0,mid,True,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. 😅✨ looking for someone kind and curious",en,warm_en,1,0,0,1,0,0,0,0,mid,True,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. foodie, sunsets, travel bad jokes and good playlists are my love language",en,funny_en,1,0,0,0,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. foodie, sunsets, travel",en,demanding_en,0,1,1,0,0,1,0,0,short,False,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. bad jokes and good playlists are my love language don't text unless you keep promises foodie, sunsets, travel foodie, sunsets, travel",ru,warm_ru,1,0,1,1,1,1,1,0,mid,False,True,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. не трать моё время, если не готов к диалогу",ru,funny_ru,1,0,1,0,1,0,1,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. умею смеяться над собой и над странными датами foodie, sunsets, travel",ru,demanding_ru,0,1,1,0,1,1,0,0,mid,False,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. bad jokes and good playlists are my love language 😂🔥",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,True,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. foodie, sunsets, travel",ru,awkward_ru,0,0,0,0,0,1,0,1,short,False,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. верю, что забота в деталях",ru,aggressive_ru,1,0,1,1,0,0,1,0,short,False,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. 😅✨ foodie, sunsets, travel",ru,confident_ru,1,1,0,0,0,1,0,0,short,True,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. люблю кино, музыку и прогулки не трать моё время, если не готов к диалогу 😅✨ foodie, sunsets, travel",en,warm_en,1,0,1,1,0,1,1,0,mid,True,False,False,2
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. don't text unless you keep promises ищу человека, который ценит маленькие ритуалы",en,funny_en,1,0,1,1,1,0,1,0,mid,False,True,False,0
+"Swipe left unless you're proactive, tall, and know your goals. don't text unless you keep promises looking for someone kind and curious bad jokes and good playlists are my love language",en,demanding_en,1,1,1,1,1,0,1,0,mid,False,True,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. верю, что забота в деталях bad jokes and good playlists are my love language 😅✨",ru,warm_ru,1,0,0,1,1,0,0,0,mid,True,False,False,0
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. bad jokes and good playlists are my love language 🌊🌊🌊,ru,funny_ru,1,0,0,0,1,0,0,0,mid,True,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. don't text unless you keep promises люблю кино, музыку и прогулки 😂🔥 😂🔥",ru,demanding_ru,0,1,1,0,0,1,1,0,mid,True,True,True,1
+"Люблю путешествовать, закаты и вкусно поесть. bad jokes and good playlists are my love language foodie, sunsets, travel",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,False,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. 😅✨ не трать моё время, если не готов к диалогу",ru,awkward_ru,0,0,1,0,0,1,1,1,mid,True,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. 😂🔥 не трать моё время, если не готов к диалогу",ru,aggressive_ru,0,0,1,0,0,0,1,0,mid,True,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. 🌊🌊🌊 bad jokes and good playlists are my love language не трать моё время, если не готов к диалогу",ru,confident_ru,1,1,1,0,1,0,1,0,mid,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. умею смеяться над собой и над странными датами 😂🔥 🌊🌊🌊",en,warm_en,1,0,0,1,1,0,0,0,mid,True,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. не трать моё время, если не готов к диалогу foodie, sunsets, travel",en,funny_en,1,0,1,0,1,1,1,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. люблю кино, музыку и прогулки looking for someone kind and curious не трать моё время, если не готов к диалогу",en,demanding_en,1,1,1,1,0,1,1,0,mid,False,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. 😅✨ люблю кино, музыку и прогулки",ru,warm_ru,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. don't text unless you keep promises 🌊🌊🌊 люблю кино, музыку и прогулки",ru,funny_ru,1,0,1,0,1,1,1,0,mid,True,True,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. don't text unless you keep promises bad jokes and good playlists are my love language",ru,demanding_ru,0,1,1,0,1,0,1,0,mid,False,True,True,0
+"Люблю путешествовать, закаты и вкусно поесть. don't text unless you keep promises 😅✨ верю, что забота в деталях",ru,cliche_ru,1,0,1,1,0,1,1,0,mid,True,True,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. looking for someone kind and curious не трать моё время, если не готов к диалогу",ru,awkward_ru,1,0,1,1,0,1,1,1,mid,False,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. люблю кино, музыку и прогулки bad jokes and good playlists are my love language",ru,aggressive_ru,0,0,1,0,1,1,1,0,mid,False,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. looking for someone kind and curious",ru,confident_ru,1,1,0,1,0,0,0,0,mid,False,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. 🌊🌊🌊 😅✨",en,warm_en,1,0,0,1,0,0,0,0,short,True,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. люблю кино, музыку и прогулки ищу человека, который ценит маленькие ритуалы",en,funny_en,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. foodie, sunsets, travel",en,demanding_en,0,1,1,0,0,1,0,0,short,False,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. не трать моё время, если не готов к диалогу 🌊🌊🌊",ru,warm_ru,1,0,1,1,0,0,1,0,mid,True,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. ищу человека, который ценит маленькие ритуалы умею смеяться над собой и над странными датами foodie, sunsets, travel",ru,funny_ru,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. don't text unless you keep promises looking for someone kind and curious люблю кино, музыку и прогулки",ru,demanding_ru,1,1,1,1,0,1,1,0,mid,False,True,True,1
+"Люблю путешествовать, закаты и вкусно поесть. 🌊🌊🌊 foodie, sunsets, travel",ru,cliche_ru,0,0,0,0,0,1,0,0,short,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. bad jokes and good playlists are my love language люблю кино, музыку и прогулки foodie, sunsets, travel",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,False,False,False,2
+"Хватит людей без целей: если только лежишь на диване — мимо. bad jokes and good playlists are my love language 😅✨ don't text unless you keep promises люблю кино, музыку и прогулки",ru,aggressive_ru,0,0,1,0,1,1,1,0,mid,True,True,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. foodie, sunsets, travel 😅✨",ru,confident_ru,1,1,0,0,0,1,0,0,short,True,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. foodie, sunsets, travel",en,warm_en,1,0,0,1,0,1,0,0,short,False,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. 😂🔥 верю, что забота в деталях умею смеяться над собой и над странными датами люблю кино, музыку и прогулки",en,funny_en,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. foodie, sunsets, travel",en,demanding_en,0,1,1,0,0,1,0,0,short,False,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. не трать моё время, если не готов к диалогу умею смеяться над собой и над странными датами",ru,warm_ru,1,0,1,1,1,0,1,0,mid,False,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. don't text unless you keep promises люблю кино, музыку и прогулки 🌊🌊🌊",ru,funny_ru,1,0,1,0,1,1,1,0,mid,True,True,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 😅✨",ru,demanding_ru,0,1,1,0,0,0,0,0,short,True,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. looking for someone kind and curious 🌊🌊🌊 не трать моё время, если не готов к диалогу foodie, sunsets, travel 🌊🌊🌊",ru,cliche_ru,1,0,1,1,0,1,1,0,mid,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. 😂🔥 foodie, sunsets, travel ищу человека, который ценит маленькие ритуалы",ru,awkward_ru,1,0,0,1,0,1,0,1,mid,True,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. 😂🔥 верю, что забота в деталях",ru,aggressive_ru,1,0,1,1,0,0,1,0,mid,True,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. foodie, sunsets, travel",ru,confident_ru,1,1,0,0,0,1,0,0,short,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. верю, что забота в деталях 😂🔥 умею смеяться над собой и над странными датами 🌊🌊🌊",en,warm_en,1,0,0,1,1,0,0,0,mid,True,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. верю, что забота в деталях не трать моё время, если не готов к диалогу",en,funny_en,1,0,1,1,1,0,1,0,mid,False,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. foodie, sunsets, travel don't text unless you keep promises bad jokes and good playlists are my love language люблю кино, музыку и прогулки",en,demanding_en,0,1,1,0,1,1,1,0,mid,False,True,False,2
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. looking for someone kind and curious bad jokes and good playlists are my love language",ru,warm_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. ищу человека, который ценит маленькие ритуалы",ru,funny_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 😅✨ люблю кино, музыку и прогулки не трать моё время, если не готов к диалогу 🌊🌊🌊",ru,demanding_ru,0,1,1,0,0,1,1,0,mid,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. верю, что забота в деталях 😂🔥 не трать моё время, если не готов к диалогу люблю кино, музыку и прогулки 🌊🌊🌊",ru,cliche_ru,1,0,1,1,0,1,1,0,mid,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. 🌊🌊🌊 looking for someone kind and curious foodie, sunsets, travel",ru,awkward_ru,1,0,0,1,0,1,0,1,mid,True,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. ищу человека, который ценит маленькие ритуалы",ru,aggressive_ru,1,0,1,1,0,0,1,0,mid,False,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. 😂🔥 don't text unless you keep promises люблю кино, музыку и прогулки 😂🔥",ru,confident_ru,1,1,1,0,0,1,1,0,mid,True,True,False,1
+"Coffee geek, dog person and believer in gentle mornings. bad jokes and good playlists are my love language люблю кино, музыку и прогулки 😂🔥",en,warm_en,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. foodie, sunsets, travel foodie, sunsets, travel",en,funny_en,1,0,0,0,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. foodie, sunsets, travel don't text unless you keep promises 🌊🌊🌊",en,demanding_en,0,1,1,0,0,1,1,0,mid,True,True,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. foodie, sunsets, travel умею смеяться над собой и над странными датами верю, что забота в деталях",ru,warm_ru,1,0,0,1,1,1,0,0,mid,False,False,False,1
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. 😅✨ умею смеяться над собой и над странными датами,ru,funny_ru,1,0,0,0,1,0,0,0,mid,True,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. foodie, sunsets, travel люблю кино, музыку и прогулки 😅✨",ru,demanding_ru,0,1,1,0,0,1,0,0,mid,True,False,True,2
+"Люблю путешествовать, закаты и вкусно поесть. 🌊🌊🌊 looking for someone kind and curious люблю кино, музыку и прогулки",ru,cliche_ru,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. не трать моё время, если не готов к диалогу ищу человека, который ценит маленькие ритуалы 😅✨",ru,awkward_ru,1,0,1,1,0,1,1,1,mid,True,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. 😂🔥 люблю кино, музыку и прогулки",ru,aggressive_ru,0,0,1,0,0,1,1,0,mid,True,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. foodie, sunsets, travel 😅✨",ru,confident_ru,1,1,0,0,0,1,0,0,short,True,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. foodie, sunsets, travel верю, что забота в деталях",en,warm_en,1,0,0,1,0,1,0,0,mid,False,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. looking for someone kind and curious умею смеяться над собой и над странными датами foodie, sunsets, travel",en,funny_en,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. не трать моё время, если не готов к диалогу",en,demanding_en,0,1,1,0,0,0,1,0,mid,False,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. 😅✨ don't text unless you keep promises",ru,warm_ru,1,0,1,1,0,0,1,0,mid,True,True,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. foodie, sunsets, travel умею смеяться над собой и над странными датами foodie, sunsets, travel",ru,funny_ru,1,0,0,0,1,1,0,0,mid,False,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. looking for someone kind and curious 🌊🌊🌊 люблю кино, музыку и прогулки",ru,demanding_ru,1,1,1,1,0,1,0,0,mid,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. looking for someone kind and curious люблю кино, музыку и прогулки",ru,cliche_ru,1,0,0,1,0,1,0,0,mid,False,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. looking for someone kind and curious foodie, sunsets, travel foodie, sunsets, travel 😂🔥",ru,awkward_ru,1,0,0,1,0,1,0,1,mid,True,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. don't text unless you keep promises 🌊🌊🌊 ищу человека, который ценит маленькие ритуалы",ru,aggressive_ru,1,0,1,1,0,0,1,0,mid,True,True,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. bad jokes and good playlists are my love language",ru,confident_ru,1,1,0,0,1,0,0,0,mid,False,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. верю, что забота в деталях don't text unless you keep promises",en,warm_en,1,0,1,1,0,0,1,0,mid,False,True,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. не трать моё время, если не готов к диалогу",en,funny_en,1,0,1,0,1,0,1,0,mid,False,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. верю, что забота в деталях",en,demanding_en,1,1,1,1,0,0,0,0,short,False,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. looking for someone kind and curious foodie, sunsets, travel",ru,warm_ru,1,0,0,1,0,1,0,0,mid,False,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. не трать моё время, если не готов к диалогу ищу человека, который ценит маленькие ритуалы 🌊🌊🌊",ru,funny_ru,1,0,1,1,1,0,1,0,mid,True,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. люблю кино, музыку и прогулки don't text unless you keep promises looking for someone kind and curious 😅✨",ru,demanding_ru,1,1,1,1,0,1,1,0,mid,True,True,True,1
+"Люблю путешествовать, закаты и вкусно поесть. умею смеяться над собой и над странными датами",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,False,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. ищу человека, который ценит маленькие ритуалы не трать моё время, если не готов к диалогу",ru,awkward_ru,1,0,1,1,0,1,1,1,mid,False,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. 😂🔥 не трать моё время, если не готов к диалогу умею смеяться над собой и над странными датами",ru,aggressive_ru,0,0,1,0,1,0,1,0,mid,True,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. верю, что забота в деталях люблю кино, музыку и прогулки",ru,confident_ru,1,1,0,1,0,1,0,0,mid,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. 🌊🌊🌊 foodie, sunsets, travel bad jokes and good playlists are my love language",en,warm_en,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. foodie, sunsets, travel умею смеяться над собой и над странными датами",en,funny_en,1,0,0,0,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. ищу человека, который ценит маленькие ритуалы",en,demanding_en,1,1,1,1,0,0,0,0,mid,False,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. bad jokes and good playlists are my love language люблю кино, музыку и прогулки 🌊🌊🌊 foodie, sunsets, travel",ru,warm_ru,1,0,0,1,1,1,0,0,mid,True,False,False,2
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. ищу человека, который ценит маленькие ритуалы умею смеяться над собой и над странными датами",ru,funny_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. люблю кино, музыку и прогулки верю, что забота в деталях 😂🔥 foodie, sunsets, travel",ru,demanding_ru,1,1,1,1,0,1,0,0,mid,True,False,True,2
+"Люблю путешествовать, закаты и вкусно поесть. don't text unless you keep promises 😂🔥",ru,cliche_ru,0,0,1,0,0,1,1,0,short,True,True,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. 😂🔥 foodie, sunsets, travel 😅✨",ru,awkward_ru,0,0,0,0,0,1,0,1,short,True,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. не трать моё время, если не готов к диалогу люблю кино, музыку и прогулки foodie, sunsets, travel",ru,aggressive_ru,0,0,1,0,0,1,1,0,mid,False,False,False,2
+"Инженер, люблю запускать проекты и ценю честные разговоры. верю, что забота в деталях не трать моё время, если не готов к диалогу",ru,confident_ru,1,1,1,1,0,0,1,0,mid,False,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. умею смеяться над собой и над странными датами foodie, sunsets, travel ищу человека, который ценит маленькие ритуалы",en,warm_en,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. foodie, sunsets, travel don't text unless you keep promises умею смеяться над собой и над странными датами",en,funny_en,1,0,1,0,1,1,1,0,mid,False,True,False,1
+"Swipe left unless you're proactive, tall, and know your goals. умею смеяться над собой и над странными датами foodie, sunsets, travel 😅✨",en,demanding_en,0,1,1,0,1,1,0,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. 😅✨ bad jokes and good playlists are my love language",ru,warm_ru,1,0,0,1,1,0,0,0,mid,True,False,False,0
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. looking for someone kind and curious умею смеяться над собой и над странными датами,ru,funny_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. foodie, sunsets, travel умею смеяться над собой и над странными датами 😅✨ 😅✨",ru,demanding_ru,0,1,1,0,1,1,0,0,mid,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. не трать моё время, если не готов к диалогу",ru,cliche_ru,0,0,1,0,0,1,1,0,short,False,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. foodie, sunsets, travel",ru,awkward_ru,0,0,0,0,0,1,0,1,short,False,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. люблю кино, музыку и прогулки ищу человека, который ценит маленькие ритуалы умею смеяться над собой и над странными датами",ru,aggressive_ru,1,0,1,1,1,1,1,0,mid,False,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. 😂🔥 looking for someone kind and curious don't text unless you keep promises",ru,confident_ru,1,1,1,1,0,0,1,0,mid,True,True,False,0
+"Coffee geek, dog person and believer in gentle mornings. ищу человека, который ценит маленькие ритуалы 😅✨ люблю кино, музыку и прогулки",en,warm_en,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. foodie, sunsets, travel умею смеяться над собой и над странными датами",en,funny_en,1,0,0,0,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. looking for someone kind and curious foodie, sunsets, travel",en,demanding_en,1,1,1,1,0,1,0,0,mid,False,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. 😅✨ 😂🔥",ru,warm_ru,1,0,0,1,0,0,0,0,short,True,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. foodie, sunsets, travel не трать моё время, если не готов к диалогу looking for someone kind and curious foodie, sunsets, travel",ru,funny_ru,1,0,1,1,1,1,1,0,mid,False,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. умею смеяться над собой и над странными датами 😂🔥 не трать моё время, если не готов к диалогу",ru,demanding_ru,0,1,1,0,1,0,1,0,mid,True,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. умею смеяться над собой и над странными датами люблю кино, музыку и прогулки",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,False,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. 🌊🌊🌊",ru,awkward_ru,0,0,0,0,0,1,0,1,short,True,False,False,0
+Хватит людей без целей: если только лежишь на диване — мимо. умею смеяться над собой и над странными датами,ru,aggressive_ru,0,0,1,0,1,0,1,0,mid,False,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. 🌊🌊🌊",ru,confident_ru,1,1,0,0,0,0,0,0,short,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. don't text unless you keep promises умею смеяться над собой и над странными датами",en,warm_en,1,0,1,1,1,0,1,0,mid,False,True,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. don't text unless you keep promises люблю кино, музыку и прогулки 😅✨",en,funny_en,1,0,1,0,1,1,1,0,mid,True,True,False,1
+"Swipe left unless you're proactive, tall, and know your goals. не трать моё время, если не готов к диалогу",en,demanding_en,0,1,1,0,0,0,1,0,mid,False,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. не трать моё время, если не готов к диалогу люблю кино, музыку и прогулки",ru,warm_ru,1,0,1,1,0,1,1,0,mid,False,False,False,1
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. 😂🔥 bad jokes and good playlists are my love language,ru,funny_ru,1,0,0,0,1,0,0,0,mid,True,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. bad jokes and good playlists are my love language 🌊🌊🌊 люблю кино, музыку и прогулки",ru,demanding_ru,0,1,1,0,1,1,0,0,mid,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. не трать моё время, если не готов к диалогу",ru,cliche_ru,0,0,1,0,0,1,1,0,short,False,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. 😅✨ foodie, sunsets, travel",ru,awkward_ru,0,0,0,0,0,1,0,1,short,True,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. умею смеяться над собой и над странными датами ищу человека, который ценит маленькие ритуалы",ru,aggressive_ru,1,0,1,1,1,0,1,0,mid,False,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. don't text unless you keep promises умею смеяться над собой и над странными датами люблю кино, музыку и прогулки",ru,confident_ru,1,1,1,0,1,1,1,0,mid,False,True,False,1
+"Coffee geek, dog person and believer in gentle mornings. 😂🔥 верю, что забота в деталях",en,warm_en,1,0,0,1,0,0,0,0,short,True,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. bad jokes and good playlists are my love language 😅✨",en,funny_en,1,0,0,0,1,0,0,0,mid,True,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. ищу человека, который ценит маленькие ритуалы люблю кино, музыку и прогулки foodie, sunsets, travel",en,demanding_en,1,1,1,1,0,1,0,0,mid,False,False,False,2
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. люблю кино, музыку и прогулки умею смеяться над собой и над странными датами не трать моё время, если не готов к диалогу",ru,warm_ru,1,0,1,1,1,1,1,0,mid,False,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. don't text unless you keep promises bad jokes and good playlists are my love language foodie, sunsets, travel",ru,funny_ru,1,0,1,0,1,1,1,0,mid,False,True,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. ищу человека, который ценит маленькие ритуалы bad jokes and good playlists are my love language люблю кино, музыку и прогулки 🌊🌊🌊",ru,demanding_ru,1,1,1,1,1,1,0,0,mid,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. don't text unless you keep promises bad jokes and good playlists are my love language 🌊🌊🌊",ru,cliche_ru,0,0,1,0,1,1,1,0,mid,True,True,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. люблю кино, музыку и прогулки 😂🔥",ru,awkward_ru,0,0,0,0,0,1,0,1,short,True,False,False,1
+Хватит людей без целей: если только лежишь на диване — мимо. 😂🔥 don't text unless you keep promises,ru,aggressive_ru,0,0,1,0,0,0,1,0,mid,True,True,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. верю, что забота в деталях 😂🔥 don't text unless you keep promises",ru,confident_ru,1,1,1,1,0,0,1,0,mid,True,True,False,0
+"Coffee geek, dog person and believer in gentle mornings. умею смеяться над собой и над странными датами foodie, sunsets, travel",en,warm_en,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. 😂🔥 bad jokes and good playlists are my love language",en,funny_en,1,0,0,0,1,0,0,0,mid,True,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. ищу человека, который ценит маленькие ритуалы",en,demanding_en,1,1,1,1,0,0,0,0,mid,False,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. ищу человека, который ценит маленькие ритуалы 😅✨",ru,warm_ru,1,0,0,1,0,0,0,0,mid,True,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. bad jokes and good playlists are my love language foodie, sunsets, travel 😅✨",ru,funny_ru,1,0,0,0,1,1,0,0,mid,True,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. looking for someone kind and curious не трать моё время, если не готов к диалогу foodie, sunsets, travel",ru,demanding_ru,1,1,1,1,0,1,1,0,mid,False,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. люблю кино, музыку и прогулки 😅✨",ru,cliche_ru,0,0,0,0,0,1,0,0,short,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. умею смеяться над собой и над странными датами",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,False,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. не трать моё время, если не готов к диалогу",ru,aggressive_ru,0,0,1,0,0,0,1,0,mid,False,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. люблю кино, музыку и прогулки люблю кино, музыку и прогулки",ru,confident_ru,1,1,0,0,0,1,0,0,mid,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. верю, что забота в деталях",en,warm_en,1,0,0,1,0,0,0,0,short,False,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. умею смеяться над собой и над странными датами 😂🔥",en,funny_en,1,0,0,0,1,0,0,0,mid,True,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. foodie, sunsets, travel",en,demanding_en,0,1,1,0,0,1,0,0,short,False,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. foodie, sunsets, travel 🌊🌊🌊",ru,warm_ru,1,0,0,1,0,1,0,0,short,True,False,False,1
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. looking for someone kind and curious,ru,funny_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. не трать моё время, если не готов к диалогу bad jokes and good playlists are my love language",ru,demanding_ru,0,1,1,0,1,0,1,0,mid,False,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. 🌊🌊🌊 don't text unless you keep promises люблю кино, музыку и прогулки",ru,cliche_ru,0,0,1,0,0,1,1,0,mid,True,True,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. люблю кино, музыку и прогулки не трать моё время, если не готов к диалогу 😅✨",ru,awkward_ru,0,0,1,0,0,1,1,1,mid,True,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. 🌊🌊🌊 верю, что забота в деталях don't text unless you keep promises foodie, sunsets, travel",ru,aggressive_ru,1,0,1,1,0,1,1,0,mid,True,True,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. умею смеяться над собой и над странными датами люблю кино, музыку и прогулки ищу человека, который ценит маленькие ритуалы 🌊🌊🌊",ru,confident_ru,1,1,0,1,1,1,0,0,mid,True,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. 😂🔥 don't text unless you keep promises",en,warm_en,1,0,1,1,0,0,1,0,mid,True,True,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. 🌊🌊🌊 bad jokes and good playlists are my love language люблю кино, музыку и прогулки",en,funny_en,1,0,0,0,1,1,0,0,mid,True,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. 😅✨",en,demanding_en,0,1,1,0,0,0,0,0,short,True,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. верю, что забота в деталях не трать моё время, если не готов к диалогу люблю кино, музыку и прогулки foodie, sunsets, travel 😂🔥",ru,warm_ru,1,0,1,1,0,1,1,0,mid,True,False,False,2
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. looking for someone kind and curious не трать моё время, если не готов к диалогу люблю кино, музыку и прогулки люблю кино, музыку и прогулки",ru,funny_ru,1,0,1,1,1,1,1,0,mid,False,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. foodie, sunsets, travel",ru,demanding_ru,0,1,1,0,0,1,0,0,short,False,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. не трать моё время, если не готов к диалогу bad jokes and good playlists are my love language люблю кино, музыку и прогулки 😅✨",ru,cliche_ru,0,0,1,0,1,1,1,0,mid,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. 😅✨ looking for someone kind and curious",ru,awkward_ru,1,0,0,1,0,1,0,1,mid,True,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. люблю кино, музыку и прогулки don't text unless you keep promises 🌊🌊🌊",ru,aggressive_ru,0,0,1,0,0,1,1,0,mid,True,True,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. ищу человека, который ценит маленькие ритуалы 😂🔥 🌊🌊🌊",ru,confident_ru,1,1,0,1,0,0,0,0,mid,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. верю, что забота в деталях",en,warm_en,1,0,0,1,0,0,0,0,short,False,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. looking for someone kind and curious",en,funny_en,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. люблю кино, музыку и прогулки bad jokes and good playlists are my love language 😂🔥",en,demanding_en,0,1,1,0,1,1,0,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. не трать моё время, если не готов к диалогу ищу человека, который ценит маленькие ритуалы 🌊🌊🌊",ru,warm_ru,1,0,1,1,0,0,1,0,mid,True,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. верю, что забота в деталях foodie, sunsets, travel",ru,funny_ru,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. не трать моё время, если не готов к диалогу",ru,demanding_ru,0,1,1,0,0,0,1,0,mid,False,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. 😅✨ bad jokes and good playlists are my love language люблю кино, музыку и прогулки",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. умею смеяться над собой и над странными датами 😂🔥",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,True,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. ищу человека, который ценит маленькие ритуалы don't text unless you keep promises",ru,aggressive_ru,1,0,1,1,0,0,1,0,mid,False,True,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. умею смеяться над собой и над странными датами",ru,confident_ru,1,1,0,0,1,0,0,0,mid,False,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. не трать моё время, если не готов к диалогу люблю кино, музыку и прогулки",en,warm_en,1,0,1,1,0,1,1,0,mid,False,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. люблю кино, музыку и прогулки не трать моё время, если не готов к диалогу умею смеяться над собой и над странными датами",en,funny_en,1,0,1,0,1,1,1,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. 😂🔥 ищу человека, который ценит маленькие ритуалы умею смеяться над собой и над странными датами",en,demanding_en,1,1,1,1,1,0,0,0,mid,True,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. don't text unless you keep promises 😅✨ люблю кино, музыку и прогулки 😂🔥",ru,warm_ru,1,0,1,1,0,1,1,0,mid,True,True,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. умею смеяться над собой и над странными датами foodie, sunsets, travel",ru,funny_ru,1,0,0,0,1,1,0,0,mid,False,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 😅✨",ru,demanding_ru,0,1,1,0,0,0,0,0,short,True,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. люблю кино, музыку и прогулки не трать моё время, если не готов к диалогу foodie, sunsets, travel",ru,cliche_ru,0,0,1,0,0,1,1,0,mid,False,False,False,2
+"Здесь по приколу, удиви меня или пролистывай дальше. 😅✨ ищу человека, который ценит маленькие ритуалы люблю кино, музыку и прогулки",ru,awkward_ru,1,0,0,1,0,1,0,1,mid,True,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. 😂🔥 верю, что забота в деталях",ru,aggressive_ru,1,0,1,1,0,0,1,0,mid,True,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. foodie, sunsets, travel",ru,confident_ru,1,1,0,0,0,1,0,0,short,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. люблю кино, музыку и прогулки 🌊🌊🌊",en,warm_en,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. умею смеяться над собой и над странными датами foodie, sunsets, travel",en,funny_en,1,0,0,0,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. ищу человека, который ценит маленькие ритуалы не трать моё время, если не готов к диалогу 🌊🌊🌊",en,demanding_en,1,1,1,1,0,0,1,0,mid,True,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. верю, что забота в деталях foodie, sunsets, travel 😂🔥",ru,warm_ru,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. люблю кино, музыку и прогулки 😅✨ 🌊🌊🌊",ru,funny_ru,1,0,0,0,1,1,0,0,mid,True,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. don't text unless you keep promises 😂🔥",ru,demanding_ru,0,1,1,0,0,0,1,0,mid,True,True,True,0
+"Люблю путешествовать, закаты и вкусно поесть. 😅✨ bad jokes and good playlists are my love language don't text unless you keep promises",ru,cliche_ru,0,0,1,0,1,1,1,0,mid,True,True,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. don't text unless you keep promises люблю кино, музыку и прогулки",ru,awkward_ru,0,0,1,0,0,1,1,1,mid,False,True,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. bad jokes and good playlists are my love language верю, что забота в деталях 😂🔥",ru,aggressive_ru,1,0,1,1,1,0,1,0,mid,True,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. 😅✨ не трать моё время, если не готов к диалогу умею смеяться над собой и над странными датами",ru,confident_ru,1,1,1,0,1,0,1,0,mid,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. looking for someone kind and curious foodie, sunsets, travel",en,warm_en,1,0,0,1,0,1,0,0,mid,False,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. ищу человека, который ценит маленькие ритуалы",en,funny_en,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. верю, что забота в деталях bad jokes and good playlists are my love language не трать моё время, если не готов к диалогу foodie, sunsets, travel",en,demanding_en,1,1,1,1,1,1,1,0,mid,False,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. don't text unless you keep promises looking for someone kind and curious 😂🔥 люблю кино, музыку и прогулки",ru,warm_ru,1,0,1,1,0,1,1,0,mid,True,True,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. 🌊🌊🌊 don't text unless you keep promises люблю кино, музыку и прогулки",ru,funny_ru,1,0,1,0,1,1,1,0,mid,True,True,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. looking for someone kind and curious",ru,demanding_ru,1,1,1,1,0,0,0,0,mid,False,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. умею смеяться над собой и над странными датами 😅✨ люблю кино, музыку и прогулки люблю кино, музыку и прогулки",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. don't text unless you keep promises looking for someone kind and curious умею смеяться над собой и над странными датами",ru,awkward_ru,1,0,1,1,1,1,1,1,mid,False,True,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. foodie, sunsets, travel 😂🔥",ru,aggressive_ru,0,0,1,0,0,1,1,0,short,True,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. 😂🔥 не трать моё время, если не готов к диалогу верю, что забота в деталях",ru,confident_ru,1,1,1,1,0,0,1,0,mid,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. умею смеяться над собой и над странными датами",en,warm_en,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. 🌊🌊🌊 looking for someone kind and curious",en,funny_en,1,0,0,1,1,0,0,0,mid,True,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. умею смеяться над собой и над странными датами верю, что забота в деталях 😂🔥 foodie, sunsets, travel",en,demanding_en,1,1,1,1,1,1,0,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. looking for someone kind and curious",ru,warm_ru,1,0,0,1,0,0,0,0,mid,False,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. foodie, sunsets, travel ищу человека, который ценит маленькие ритуалы люблю кино, музыку и прогулки",ru,funny_ru,1,0,0,1,1,1,0,0,mid,False,False,False,2
+"Без амбиций и цели не пишите: я ценю людей, которые растут. ищу человека, который ценит маленькие ритуалы",ru,demanding_ru,1,1,1,1,0,0,0,0,mid,False,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. foodie, sunsets, travel",ru,cliche_ru,0,0,0,0,0,1,0,0,short,False,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. looking for someone kind and curious люблю кино, музыку и прогулки люблю кино, музыку и прогулки",ru,awkward_ru,1,0,0,1,0,1,0,1,mid,False,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. не трать моё время, если не готов к диалогу",ru,aggressive_ru,0,0,1,0,0,0,1,0,mid,False,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. не трать моё время, если не готов к диалогу 🌊🌊🌊",ru,confident_ru,1,1,1,0,0,0,1,0,mid,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. looking for someone kind and curious don't text unless you keep promises люблю кино, музыку и прогулки",en,warm_en,1,0,1,1,0,1,1,0,mid,False,True,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. люблю кино, музыку и прогулки bad jokes and good playlists are my love language ищу человека, который ценит маленькие ритуалы",en,funny_en,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. 😅✨ don't text unless you keep promises люблю кино, музыку и прогулки foodie, sunsets, travel",en,demanding_en,0,1,1,0,0,1,1,0,mid,True,True,False,2
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. bad jokes and good playlists are my love language ищу человека, который ценит маленькие ритуалы",ru,warm_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. 🌊🌊🌊 люблю кино, музыку и прогулки ищу человека, который ценит маленькие ритуалы foodie, sunsets, travel",ru,funny_ru,1,0,0,1,1,1,0,0,mid,True,False,False,2
+"Без амбиций и цели не пишите: я ценю людей, которые растут. верю, что забота в деталях don't text unless you keep promises",ru,demanding_ru,1,1,1,1,0,0,1,0,mid,False,True,True,0
+"Люблю путешествовать, закаты и вкусно поесть. 😅✨ foodie, sunsets, travel",ru,cliche_ru,0,0,0,0,0,1,0,0,short,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. верю, что забота в деталях don't text unless you keep promises",ru,awkward_ru,1,0,1,1,0,1,1,1,mid,False,True,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. looking for someone kind and curious умею смеяться над собой и над странными датами не трать моё время, если не готов к диалогу",ru,aggressive_ru,1,0,1,1,1,0,1,0,mid,False,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. 😂🔥 умею смеяться над собой и над странными датами",ru,confident_ru,1,1,0,0,1,0,0,0,mid,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. 😂🔥 люблю кино, музыку и прогулки 😂🔥",en,warm_en,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. 😂🔥",en,funny_en,1,0,0,0,1,0,0,0,short,True,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. 😅✨ умею смеяться над собой и над странными датами ищу человека, который ценит маленькие ритуалы",en,demanding_en,1,1,1,1,1,0,0,0,mid,True,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. верю, что забота в деталях foodie, sunsets, travel",ru,warm_ru,1,0,0,1,0,1,0,0,mid,False,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. умею смеяться над собой и над странными датами не трать моё время, если не готов к диалогу 😅✨",ru,funny_ru,1,0,1,0,1,0,1,0,mid,True,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 🌊🌊🌊 foodie, sunsets, travel люблю кино, музыку и прогулки 😂🔥",ru,demanding_ru,0,1,1,0,0,1,0,0,mid,True,False,True,2
+"Люблю путешествовать, закаты и вкусно поесть. ищу человека, который ценит маленькие ритуалы 😅✨ don't text unless you keep promises",ru,cliche_ru,1,0,1,1,0,1,1,0,mid,True,True,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. люблю кино, музыку и прогулки 😅✨ верю, что забота в деталях foodie, sunsets, travel 😅✨",ru,awkward_ru,1,0,0,1,0,1,0,1,mid,True,False,False,2
+"Хватит людей без целей: если только лежишь на диване — мимо. bad jokes and good playlists are my love language верю, что забота в деталях don't text unless you keep promises foodie, sunsets, travel",ru,aggressive_ru,1,0,1,1,1,1,1,0,mid,False,True,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. ищу человека, который ценит маленькие ритуалы bad jokes and good playlists are my love language",ru,confident_ru,1,1,0,1,1,0,0,0,mid,False,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. не трать моё время, если не готов к диалогу люблю кино, музыку и прогулки",en,warm_en,1,0,1,1,0,1,1,0,mid,False,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. люблю кино, музыку и прогулки не трать моё время, если не готов к диалогу foodie, sunsets, travel 😂🔥",en,funny_en,1,0,1,0,1,1,1,0,mid,True,False,False,2
+"Swipe left unless you're proactive, tall, and know your goals. ищу человека, который ценит маленькие ритуалы умею смеяться над собой и над странными датами 🌊🌊🌊 люблю кино, музыку и прогулки",en,demanding_en,1,1,1,1,1,1,0,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. bad jokes and good playlists are my love language don't text unless you keep promises 😂🔥",ru,warm_ru,1,0,1,1,1,0,1,0,mid,True,True,False,0
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. don't text unless you keep promises 😅✨,ru,funny_ru,1,0,1,0,1,0,1,0,mid,True,True,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 🌊🌊🌊 don't text unless you keep promises умею смеяться над собой и над странными датами",ru,demanding_ru,0,1,1,0,1,0,1,0,mid,True,True,True,0
+"Люблю путешествовать, закаты и вкусно поесть. 🌊🌊🌊",ru,cliche_ru,0,0,0,0,0,1,0,0,short,True,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. bad jokes and good playlists are my love language не трать моё время, если не готов к диалогу люблю кино, музыку и прогулки 🌊🌊🌊",ru,awkward_ru,0,0,1,0,1,1,1,1,mid,True,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. looking for someone kind and curious bad jokes and good playlists are my love language foodie, sunsets, travel",ru,aggressive_ru,1,0,1,1,1,1,1,0,mid,False,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. люблю кино, музыку и прогулки don't text unless you keep promises",ru,confident_ru,1,1,1,0,0,1,1,0,mid,False,True,False,1
+"Coffee geek, dog person and believer in gentle mornings. foodie, sunsets, travel looking for someone kind and curious 😂🔥",en,warm_en,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. верю, что забота в деталях foodie, sunsets, travel 😂🔥",en,funny_en,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. не трать моё время, если не готов к диалогу умею смеяться над собой и над странными датами looking for someone kind and curious",en,demanding_en,1,1,1,1,1,0,1,0,mid,False,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. looking for someone kind and curious",ru,warm_ru,1,0,0,1,0,0,0,0,mid,False,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. люблю кино, музыку и прогулки 😂🔥",ru,funny_ru,1,0,0,0,1,1,0,0,mid,True,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. не трать моё время, если не готов к диалогу",ru,demanding_ru,0,1,1,0,0,0,1,0,mid,False,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. не трать моё время, если не готов к диалогу 😂🔥",ru,cliche_ru,0,0,1,0,0,1,1,0,mid,True,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. люблю кино, музыку и прогулки",ru,awkward_ru,0,0,0,0,0,1,0,1,short,False,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. умею смеяться над собой и над странными датами не трать моё время, если не готов к диалогу foodie, sunsets, travel foodie, sunsets, travel",ru,aggressive_ru,0,0,1,0,1,1,1,0,mid,False,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. don't text unless you keep promises 😅✨",ru,confident_ru,1,1,1,0,0,0,1,0,mid,True,True,False,0
+"Coffee geek, dog person and believer in gentle mornings. 🌊🌊🌊 looking for someone kind and curious умею смеяться над собой и над странными датами",en,warm_en,1,0,0,1,1,0,0,0,mid,True,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. люблю кино, музыку и прогулки ищу человека, который ценит маленькие ритуалы",en,funny_en,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. люблю кино, музыку и прогулки умею смеяться над собой и над странными датами 😅✨",en,demanding_en,0,1,1,0,1,1,0,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. верю, что забота в деталях 😅✨ люблю кино, музыку и прогулки",ru,warm_ru,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. люблю кино, музыку и прогулки foodie, sunsets, travel",ru,funny_ru,1,0,0,0,1,1,0,0,mid,False,False,False,2
+"Без амбиций и цели не пишите: я ценю людей, которые растут. foodie, sunsets, travel 🌊🌊🌊 люблю кино, музыку и прогулки",ru,demanding_ru,0,1,1,0,0,1,0,0,mid,True,False,True,2
+"Люблю путешествовать, закаты и вкусно поесть. не трать моё время, если не готов к диалогу люблю кино, музыку и прогулки",ru,cliche_ru,0,0,1,0,0,1,1,0,mid,False,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. bad jokes and good playlists are my love language 😂🔥",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,True,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. не трать моё время, если не готов к диалогу bad jokes and good playlists are my love language верю, что забота в деталях",ru,aggressive_ru,1,0,1,1,1,0,1,0,mid,False,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. не трать моё время, если не готов к диалогу foodie, sunsets, travel 😅✨",ru,confident_ru,1,1,1,0,0,1,1,0,mid,True,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. ищу человека, который ценит маленькие ритуалы умею смеяться над собой и над странными датами люблю кино, музыку и прогулки",en,warm_en,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. верю, что забота в деталях",en,funny_en,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. не трать моё время, если не готов к диалогу looking for someone kind and curious люблю кино, музыку и прогулки 🌊🌊🌊",en,demanding_en,1,1,1,1,0,1,1,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. люблю кино, музыку и прогулки 😂🔥",ru,warm_ru,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. верю, что забота в деталях 😂🔥",ru,funny_ru,1,0,0,1,1,0,0,0,short,True,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 😅✨ умею смеяться над собой и над странными датами",ru,demanding_ru,0,1,1,0,1,0,0,0,mid,True,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. верю, что забота в деталях 🌊🌊🌊",ru,cliche_ru,1,0,0,1,0,1,0,0,short,True,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. bad jokes and good playlists are my love language don't text unless you keep promises люблю кино, музыку и прогулки foodie, sunsets, travel",ru,awkward_ru,0,0,1,0,1,1,1,1,mid,False,True,False,2
+"Хватит людей без целей: если только лежишь на диване — мимо. люблю кино, музыку и прогулки не трать моё время, если не готов к диалогу looking for someone kind and curious люблю кино, музыку и прогулки",ru,aggressive_ru,1,0,1,1,0,1,1,0,mid,False,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. люблю кино, музыку и прогулки умею смеяться над собой и над странными датами верю, что забота в деталях",ru,confident_ru,1,1,0,1,1,1,0,0,mid,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. не трать моё время, если не готов к диалогу люблю кино, музыку и прогулки",en,warm_en,1,0,1,1,0,1,1,0,mid,False,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. don't text unless you keep promises 😂🔥 люблю кино, музыку и прогулки 🌊🌊🌊",en,funny_en,1,0,1,0,1,1,1,0,mid,True,True,False,1
+"Swipe left unless you're proactive, tall, and know your goals. bad jokes and good playlists are my love language don't text unless you keep promises 😂🔥 foodie, sunsets, travel",en,demanding_en,0,1,1,0,1,1,1,0,mid,True,True,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. foodie, sunsets, travel 😅✨",ru,warm_ru,1,0,0,1,0,1,0,0,short,True,False,False,1
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. умею смеяться над собой и над странными датами looking for someone kind and curious,ru,funny_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. верю, что забота в деталях",ru,demanding_ru,1,1,1,1,0,0,0,0,short,False,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. foodie, sunsets, travel bad jokes and good playlists are my love language не трать моё время, если не готов к диалогу",ru,cliche_ru,0,0,1,0,1,1,1,0,mid,False,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. умею смеяться над собой и над странными датами foodie, sunsets, travel 😅✨ foodie, sunsets, travel",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,True,False,False,1
+Хватит людей без целей: если только лежишь на диване — мимо. 😂🔥,ru,aggressive_ru,0,0,1,0,0,0,1,0,short,True,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. не трать моё время, если не готов к диалогу верю, что забота в деталях bad jokes and good playlists are my love language",ru,confident_ru,1,1,1,1,1,0,1,0,mid,False,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. 😂🔥 люблю кино, музыку и прогулки",en,warm_en,1,0,0,1,0,1,0,0,short,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. люблю кино, музыку и прогулки bad jokes and good playlists are my love language",en,funny_en,1,0,0,0,1,1,0,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. looking for someone kind and curious bad jokes and good playlists are my love language",en,demanding_en,1,1,1,1,1,0,0,0,mid,False,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. люблю кино, музыку и прогулки 😅✨ 😅✨",ru,warm_ru,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. верю, что забота в деталях 🌊🌊🌊 умею смеяться над собой и над странными датами",ru,funny_ru,1,0,0,1,1,0,0,0,mid,True,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. don't text unless you keep promises bad jokes and good playlists are my love language 😅✨",ru,demanding_ru,0,1,1,0,1,0,1,0,mid,True,True,True,0
+"Люблю путешествовать, закаты и вкусно поесть. don't text unless you keep promises foodie, sunsets, travel люблю кино, музыку и прогулки 😅✨",ru,cliche_ru,0,0,1,0,0,1,1,0,mid,True,True,False,2
+"Здесь по приколу, удиви меня или пролистывай дальше. не трать моё время, если не готов к диалогу 🌊🌊🌊 люблю кино, музыку и прогулки",ru,awkward_ru,0,0,1,0,0,1,1,1,mid,True,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. люблю кино, музыку и прогулки ищу человека, который ценит маленькие ритуалы умею смеяться над собой и над странными датами",ru,aggressive_ru,1,0,1,1,1,1,1,0,mid,False,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. умею смеяться над собой и над странными датами don't text unless you keep promises люблю кино, музыку и прогулки",ru,confident_ru,1,1,1,0,1,1,1,0,mid,False,True,False,1
+"Coffee geek, dog person and believer in gentle mornings. foodie, sunsets, travel умею смеяться над собой и над странными датами 😅✨",en,warm_en,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. люблю кино, музыку и прогулки умею смеяться над собой и над странными датами не трать моё время, если не готов к диалогу",en,funny_en,1,0,1,0,1,1,1,0,mid,False,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. 😅✨ люблю кино, музыку и прогулки",en,demanding_en,0,1,1,0,0,1,0,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. люблю кино, музыку и прогулки bad jokes and good playlists are my love language",ru,warm_ru,1,0,0,1,1,1,0,0,mid,False,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. не трать моё время, если не готов к диалогу 🌊🌊🌊 люблю кино, музыку и прогулки",ru,funny_ru,1,0,1,0,1,1,1,0,mid,True,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. bad jokes and good playlists are my love language 😂🔥 foodie, sunsets, travel",ru,demanding_ru,0,1,1,0,1,1,0,0,mid,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. 😂🔥 foodie, sunsets, travel don't text unless you keep promises",ru,cliche_ru,0,0,1,0,0,1,1,0,mid,True,True,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. люблю кино, музыку и прогулки люблю кино, музыку и прогулки",ru,awkward_ru,0,0,0,0,0,1,0,1,mid,False,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. don't text unless you keep promises люблю кино, музыку и прогулки",ru,aggressive_ru,0,0,1,0,0,1,1,0,mid,False,True,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. bad jokes and good playlists are my love language верю, что забота в деталях люблю кино, музыку и прогулки",ru,confident_ru,1,1,0,1,1,1,0,0,mid,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. foodie, sunsets, travel умею смеяться над собой и над странными датами don't text unless you keep promises",en,warm_en,1,0,1,1,1,1,1,0,mid,False,True,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. don't text unless you keep promises ищу человека, который ценит маленькие ритуалы foodie, sunsets, travel",en,funny_en,1,0,1,1,1,1,1,0,mid,False,True,False,1
+"Swipe left unless you're proactive, tall, and know your goals. не трать моё время, если не готов к диалогу bad jokes and good playlists are my love language 😅✨ люблю кино, музыку и прогулки",en,demanding_en,0,1,1,0,1,1,1,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. 🌊🌊🌊",ru,warm_ru,1,0,0,1,0,0,0,0,short,True,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. don't text unless you keep promises умею смеяться над собой и над странными датами верю, что забота в деталях",ru,funny_ru,1,0,1,1,1,0,1,0,mid,False,True,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. bad jokes and good playlists are my love language",ru,demanding_ru,0,1,1,0,1,0,0,0,mid,False,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. 😂🔥 don't text unless you keep promises умею смеяться над собой и над странными датами",ru,cliche_ru,0,0,1,0,1,1,1,0,mid,True,True,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. умею смеяться над собой и над странными датами 😂🔥",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,True,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. люблю кино, музыку и прогулки ищу человека, который ценит маленькие ритуалы bad jokes and good playlists are my love language",ru,aggressive_ru,1,0,1,1,1,1,1,0,mid,False,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. 😂🔥 люблю кино, музыку и прогулки не трать моё время, если не готов к диалогу",ru,confident_ru,1,1,1,0,0,1,1,0,mid,True,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. 😂🔥 bad jokes and good playlists are my love language верю, что забота в деталях",en,warm_en,1,0,0,1,1,0,0,0,mid,True,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. не трать моё время, если не готов к диалогу 😂🔥",en,funny_en,1,0,1,0,1,0,1,0,mid,True,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. foodie, sunsets, travel 😂🔥 ищу человека, который ценит маленькие ритуалы 🌊🌊🌊",en,demanding_en,1,1,1,1,0,1,0,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. 😂🔥 люблю кино, музыку и прогулки",ru,warm_ru,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. умею смеяться над собой и над странными датами foodie, sunsets, travel looking for someone kind and curious 😂🔥",ru,funny_ru,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. верю, что забота в деталях 🌊🌊🌊",ru,demanding_ru,1,1,1,1,0,0,0,0,mid,True,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. bad jokes and good playlists are my love language",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,False,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. don't text unless you keep promises",ru,awkward_ru,0,0,1,0,0,1,1,1,short,False,True,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. don't text unless you keep promises looking for someone kind and curious люблю кино, музыку и прогулки",ru,aggressive_ru,1,0,1,1,0,1,1,0,mid,False,True,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. ищу человека, который ценит маленькие ритуалы 😅✨ не трать моё время, если не готов к диалогу",ru,confident_ru,1,1,1,1,0,0,1,0,mid,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. верю, что забота в деталях don't text unless you keep promises умею смеяться над собой и над странными датами",en,warm_en,1,0,1,1,1,0,1,0,mid,False,True,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. foodie, sunsets, travel 😂🔥",en,funny_en,1,0,0,0,1,1,0,0,mid,True,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. не трать моё время, если не готов к диалогу ищу человека, который ценит маленькие ритуалы 🌊🌊🌊 foodie, sunsets, travel",en,demanding_en,1,1,1,1,0,1,1,0,mid,True,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. не трать моё время, если не готов к диалогу",ru,warm_ru,1,0,1,1,0,0,1,0,mid,False,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. умею смеяться над собой и над странными датами люблю кино, музыку и прогулки foodie, sunsets, travel",ru,funny_ru,1,0,0,0,1,1,0,0,mid,False,False,False,2
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 🌊🌊🌊",ru,demanding_ru,0,1,1,0,0,0,0,0,short,True,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. люблю кино, музыку и прогулки верю, что забота в деталях умею смеяться над собой и над странными датами foodie, sunsets, travel",ru,cliche_ru,1,0,0,1,1,1,0,0,mid,False,False,False,2
+"Здесь по приколу, удиви меня или пролистывай дальше. умею смеяться над собой и над странными датами 😅✨",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,True,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. foodie, sunsets, travel 😂🔥",ru,aggressive_ru,0,0,1,0,0,1,1,0,short,True,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. 😂🔥",ru,confident_ru,1,1,0,0,0,0,0,0,short,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. bad jokes and good playlists are my love language ищу человека, который ценит маленькие ритуалы",en,warm_en,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. люблю кино, музыку и прогулки don't text unless you keep promises bad jokes and good playlists are my love language",en,funny_en,1,0,1,0,1,1,1,0,mid,False,True,False,1
+"Swipe left unless you're proactive, tall, and know your goals. люблю кино, музыку и прогулки looking for someone kind and curious",en,demanding_en,1,1,1,1,0,1,0,0,mid,False,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. 🌊🌊🌊",ru,warm_ru,1,0,0,1,0,0,0,0,short,True,False,False,0
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. ищу человека, который ценит маленькие ритуалы",ru,funny_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 🌊🌊🌊 люблю кино, музыку и прогулки don't text unless you keep promises",ru,demanding_ru,0,1,1,0,0,1,1,0,mid,True,True,True,1
+"Люблю путешествовать, закаты и вкусно поесть. bad jokes and good playlists are my love language не трать моё время, если не готов к диалогу",ru,cliche_ru,0,0,1,0,1,1,1,0,mid,False,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. умею смеяться над собой и над странными датами foodie, sunsets, travel 🌊🌊🌊",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,True,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. умею смеяться над собой и над странными датами 🌊🌊🌊 люблю кино, музыку и прогулки",ru,aggressive_ru,0,0,1,0,1,1,1,0,mid,True,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. верю, что забота в деталях умею смеяться над собой и над странными датами foodie, sunsets, travel",ru,confident_ru,1,1,0,1,1,1,0,0,mid,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. bad jokes and good playlists are my love language don't text unless you keep promises 🌊🌊🌊 foodie, sunsets, travel 😂🔥",en,warm_en,1,0,1,1,1,1,1,0,mid,True,True,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. не трать моё время, если не готов к диалогу 😅✨ foodie, sunsets, travel",en,funny_en,1,0,1,0,1,1,1,0,mid,True,False,False,1
+"Swipe left unless you're proactive, tall, and know your goals. 😅✨",en,demanding_en,0,1,1,0,0,0,0,0,short,True,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. foodie, sunsets, travel don't text unless you keep promises умею смеяться над собой и над странными датами 🌊🌊🌊",ru,warm_ru,1,0,1,1,1,1,1,0,mid,True,True,False,1
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. looking for someone kind and curious,ru,funny_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. bad jokes and good playlists are my love language",ru,demanding_ru,0,1,1,0,1,0,0,0,mid,False,False,True,0
+"Люблю путешествовать, закаты и вкусно поесть. умею смеяться над собой и над странными датами foodie, sunsets, travel 😂🔥",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. люблю кино, музыку и прогулки люблю кино, музыку и прогулки",ru,awkward_ru,0,0,0,0,0,1,0,1,mid,False,False,False,1
+Хватит людей без целей: если только лежишь на диване — мимо. умею смеяться над собой и над странными датами 🌊🌊🌊,ru,aggressive_ru,0,0,1,0,1,0,1,0,mid,True,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. умею смеяться над собой и над странными датами foodie, sunsets, travel",ru,confident_ru,1,1,0,0,1,1,0,0,mid,False,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. люблю кино, музыку и прогулки 😅✨ looking for someone kind and curious люблю кино, музыку и прогулки",en,warm_en,1,0,0,1,0,1,0,0,mid,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. don't text unless you keep promises bad jokes and good playlists are my love language 😂🔥",en,funny_en,1,0,1,0,1,0,1,0,mid,True,True,False,0
+"Swipe left unless you're proactive, tall, and know your goals. умею смеяться над собой и над странными датами ищу человека, который ценит маленькие ритуалы",en,demanding_en,1,1,1,1,1,0,0,0,mid,False,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. люблю кино, музыку и прогулки умею смеяться над собой и над странными датами don't text unless you keep promises",ru,warm_ru,1,0,1,1,1,1,1,0,mid,False,True,False,1
+"Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. 😅✨ looking for someone kind and curious люблю кино, музыку и прогулки",ru,funny_ru,1,0,0,1,1,1,0,0,mid,True,False,False,1
+"Без амбиций и цели не пишите: я ценю людей, которые растут. foodie, sunsets, travel 😂🔥",ru,demanding_ru,0,1,1,0,0,1,0,0,short,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. bad jokes and good playlists are my love language foodie, sunsets, travel",ru,cliche_ru,0,0,0,0,1,1,0,0,mid,False,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. 🌊🌊🌊 верю, что забота в деталях bad jokes and good playlists are my love language",ru,awkward_ru,1,0,0,1,1,1,0,1,mid,True,False,False,0
+Хватит людей без целей: если только лежишь на диване — мимо. don't text unless you keep promises 😂🔥,ru,aggressive_ru,0,0,1,0,0,0,1,0,mid,True,True,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. 😂🔥 люблю кино, музыку и прогулки",ru,confident_ru,1,1,0,0,0,1,0,0,mid,True,False,False,1
+"Coffee geek, dog person and believer in gentle mornings. don't text unless you keep promises 😂🔥",en,warm_en,1,0,1,1,0,0,1,0,mid,True,True,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. don't text unless you keep promises 😂🔥 foodie, sunsets, travel",en,funny_en,1,0,1,0,1,1,1,0,mid,True,True,False,1
+"Swipe left unless you're proactive, tall, and know your goals. bad jokes and good playlists are my love language люблю кино, музыку и прогулки",en,demanding_en,0,1,1,0,1,1,0,0,mid,False,False,False,1
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. don't text unless you keep promises 😂🔥 люблю кино, музыку и прогулки",ru,warm_ru,1,0,1,1,0,1,1,0,mid,True,True,False,1
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. умею смеяться над собой и над странными датами looking for someone kind and curious,ru,funny_ru,1,0,0,1,1,0,0,0,mid,False,False,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 😅✨ looking for someone kind and curious люблю кино, музыку и прогулки",ru,demanding_ru,1,1,1,1,0,1,0,0,mid,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. 🌊🌊🌊 люблю кино, музыку и прогулки",ru,cliche_ru,0,0,0,0,0,1,0,0,short,True,False,False,1
+"Здесь по приколу, удиви меня или пролистывай дальше. looking for someone kind and curious foodie, sunsets, travel умею смеяться над собой и над странными датами",ru,awkward_ru,1,0,0,1,1,1,0,1,mid,False,False,False,1
+"Хватит людей без целей: если только лежишь на диване — мимо. люблю кино, музыку и прогулки 😂🔥 looking for someone kind and curious 😂🔥",ru,aggressive_ru,1,0,1,1,0,1,1,0,mid,True,False,False,1
+"Инженер, люблю запускать проекты и ценю честные разговоры. 🌊🌊🌊 умею смеяться над собой и над странными датами don't text unless you keep promises люблю кино, музыку и прогулки",ru,confident_ru,1,1,1,0,1,1,1,0,mid,True,True,False,1
+"Coffee geek, dog person and believer in gentle mornings. don't text unless you keep promises",en,warm_en,1,0,1,1,0,0,1,0,mid,False,True,False,0
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. умею смеяться над собой и над странными датами ищу человека, который ценит маленькие ритуалы don't text unless you keep promises",en,funny_en,1,0,1,1,1,0,1,0,mid,False,True,False,0
+"Swipe left unless you're proactive, tall, and know your goals. не трать моё время, если не готов к диалогу 😂🔥 умею смеяться над собой и над странными датами",en,demanding_en,0,1,1,0,1,0,1,0,mid,True,False,False,0
+"Люблю ранние завтраки, велопрогулки и разговоры без телефона. не трать моё время, если не готов к диалогу 🌊🌊🌊",ru,warm_ru,1,0,1,1,0,0,1,0,mid,True,False,False,0
+Соревнуюсь в плохих шутках и могу пересказать весь 'Офис'. don't text unless you keep promises 😂🔥 looking for someone kind and curious,ru,funny_ru,1,0,1,1,1,0,1,0,mid,True,True,False,0
+"Без амбиций и цели не пишите: я ценю людей, которые растут. 🌊🌊🌊 foodie, sunsets, travel",ru,demanding_ru,0,1,1,0,0,1,0,0,short,True,False,True,1
+"Люблю путешествовать, закаты и вкусно поесть. 😅✨ ищу человека, который ценит маленькие ритуалы",ru,cliche_ru,1,0,0,1,0,1,0,0,mid,True,False,False,0
+"Здесь по приколу, удиви меня или пролистывай дальше. bad jokes and good playlists are my love language",ru,awkward_ru,0,0,0,0,1,1,0,1,mid,False,False,False,0
+"Хватит людей без целей: если только лежишь на диване — мимо. верю, что забота в деталях не трать моё время, если не готов к диалогу 😅✨",ru,aggressive_ru,1,0,1,1,0,0,1,0,mid,True,False,False,0
+"Инженер, люблю запускать проекты и ценю честные разговоры. 🌊🌊🌊",ru,confident_ru,1,1,0,0,0,0,0,0,short,True,False,False,0
+"Coffee geek, dog person and believer in gentle mornings. не трать моё время, если не готов к диалогу bad jokes and good playlists are my love language 😂🔥 люблю кино, музыку и прогулки",en,warm_en,1,0,1,1,1,1,1,0,mid,True,False,False,1
+"Recovering meme hoarder, fluent in sarcasm and midnight pancakes. умею смеяться над собой и над странными датами",en,funny_en,1,0,0,0,1,0,0,0,mid,False,False,False,0
+"Swipe left unless you're proactive, tall, and know your goals. умею смеяться над собой и над странными датами ищу человека, который ценит маленькие ритуалы",en,demanding_en,1,1,1,1,1,0,0,0,mid,False,False,False,0

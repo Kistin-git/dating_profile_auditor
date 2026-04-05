@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv/
+/outputs/
+/models/
+!models/.gitkeep
+!outputs/.gitkeep
+streamlit.log
+streamlit.pid

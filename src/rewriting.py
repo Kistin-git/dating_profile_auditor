@@ -112,6 +112,23 @@ RESET_CORES = {
 }
 
 
+PROFANITY_PATTERNS = {
+    "ru": [
+        r"\bмудил\w*",
+        r"\bебан\w*",
+        r"\bсука\w*",
+        r"\bгандон\w*",
+        r"\bговн\w*",
+    ],
+    "en": [
+        r"\bidiot\b",
+        r"\bjerk\b",
+        r"\basshole\b",
+        r"\btrash\b",
+    ],
+}
+
+
 def _strip_patterns(text: str, language: str) -> str:
     cleaned = text
     for pattern in HARSH_PATTERNS:
@@ -124,6 +141,14 @@ def _ensure_period(text: str) -> str:
     if not text:
         return ""
     return text if text.endswith((".", "!", "?")) else text + "."
+
+
+def _sanitize_text(text: str, language: str) -> str:
+    cleaned = text
+    for pattern in PROFANITY_PATTERNS.get(language, []):
+        cleaned = re.sub(pattern, "", cleaned, flags=re.IGNORECASE)
+    cleaned = " ".join(cleaned.split())
+    return cleaned.strip()
 
 
 @dataclass
@@ -141,10 +166,14 @@ class RewriteGenerator:
         self.language = language if language in RANDOM_TEMPLATES else "ru"
         return self
 
-    def _needs_reset(self, text: str) -> bool:
+    def _needs_reset(self, text: str, heuristics: HeuristicResult | None) -> bool:
         patterns = CRITICAL_PATTERNS.get(self.language, [])
         lowered = text.lower()
-        return any(pattern in lowered for pattern in patterns)
+        if any(pattern in lowered for pattern in patterns):
+            return True
+        if heuristics and any(diag.key == "diag_too_negative" for diag in heuristics.diagnostics):
+            return True
+        return False
 
     def _compose(self, variant: str, core: str) -> str:
         template = RANDOM_TEMPLATES[self.language][variant]
@@ -154,7 +183,7 @@ class RewriteGenerator:
 
     def generate(self, text: str, heuristics: HeuristicResult | None = None) -> RewriteResult:
         core = _strip_patterns(text, self.language)
-        if self._needs_reset(core):
+        if self._needs_reset(core, heuristics):
             core = random.choice(RESET_CORES[self.language])
         elif heuristics and heuristics.cliche_hits:
             replacements = " ".join(
@@ -163,6 +192,9 @@ class RewriteGenerator:
             )
             core = f"{core} {replacements}".strip()
         core = _ensure_period(core)
+        core = _sanitize_text(core, self.language)
+        if not core:
+            core = random.choice(RESET_CORES[self.language])
         return RewriteResult(
             warmer=self._compose("warmer", core),
             funny=self._compose("funny", core),

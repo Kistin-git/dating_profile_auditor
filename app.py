@@ -34,6 +34,13 @@ def render_probabilities(probabilities: dict[str, float], bundle: LocalizationBu
         col.progress(min(max(value, 0.0), 1.0))
 
 
+def apply_rewrite_variant(text: str, variant_name: str) -> None:
+    st.session_state["bio_editor"] = text
+    st.session_state.pop("analysis_result", None)
+    st.session_state["applied_variant"] = variant_name
+    st.experimental_rerun()
+
+
 def main() -> None:
     st.title("Dating Profile Auditor")
 
@@ -62,6 +69,10 @@ def main() -> None:
     st.sidebar.caption(bundle.t("disclaimer"))
 
     st.subheader(bundle.t("app_subtitle"))
+
+    if st.session_state.get("applied_variant"):
+        st.success(bundle.t("rewrite_applied", variant=st.session_state["applied_variant"]))
+        st.session_state.pop("applied_variant")
 
     text = st.text_area(
         bundle.t("input_label"),
@@ -115,13 +126,22 @@ def main() -> None:
     st.write(analysis_result.score.explanation.get(language, analysis_result.score.explanation["ru"]))
 
     st.subheader(bundle.t("rewrites_section"))
+    st.caption(bundle.t("rewrite_hint"))
     rewrites = analysis_result.rewrites
-    st.write(f"**{bundle.t('rewrite_warmer')}**")
-    st.write(rewrites.warmer)
-    st.write(f"**{bundle.t('rewrite_funny')}**")
-    st.write(rewrites.funny)
-    st.write(f"**{bundle.t('rewrite_confident')}**")
-    st.write(rewrites.confident)
+    rewrite_data = [
+        ("rewrite_warmer", rewrites.warmer),
+        ("rewrite_funny", rewrites.funny),
+        ("rewrite_confident", rewrites.confident),
+    ]
+    for key_name, content in rewrite_data:
+        st.write(f"**{bundle.t(key_name)}**")
+        st.write(content)
+        st.button(
+            bundle.t("rewrite_apply"),
+            key=f"apply_{key_name}",
+            on_click=apply_rewrite_variant,
+            args=(content, bundle.t(key_name)),
+        )
 
     st.caption(bundle.t("disclaimer"))
 

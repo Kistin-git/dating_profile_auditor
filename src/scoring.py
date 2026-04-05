@@ -46,23 +46,24 @@ def build_explanation(lang: str, positives: List[str], negatives: List[str], dia
 
 
 def compute_score(probabilities: Dict[str, float], heuristics: HeuristicResult) -> ScoreResult:
-    base = 50.0
     contributions: Dict[str, float] = {}
 
-    for label, weight in SCORING.positive.items():
-        value = probabilities.get(label, 0.0) * weight
-        base += value
-        contributions[label] = value
-    for label, weight in SCORING.negative.items():
-        value = probabilities.get(label, 0.0) * weight
-        base -= value
-        contributions[label] = contributions.get(label, 0.0) - value
+    pos_total = sum(probabilities.get(label, 0.0) * weight for label, weight in SCORING.positive.items())
+    neg_total = sum(probabilities.get(label, 0.0) * weight for label, weight in SCORING.negative.items())
+    pos_capacity = sum(SCORING.positive.values()) or 1.0
+    neg_capacity = sum(SCORING.negative.values()) or 1.0
+    pos_norm = pos_total / pos_capacity
+    neg_norm = neg_total / neg_capacity
+    contributions["positive_block"] = pos_norm
+    contributions["negative_block"] = -neg_norm
+
+    heuristics_penalty = sum(SCORING.heuristic_penalties.get(diag.key, 0.0) for diag in heuristics.diagnostics)
     for diag in heuristics.diagnostics:
         penalty = SCORING.heuristic_penalties.get(diag.key, 0.0)
-        base -= penalty
         contributions[diag.key] = -penalty
 
-    score = max(0, min(100, int(round(base))))
+    score_value = 50 + (pos_norm - 0.45) * 60 - (neg_norm - 0.25) * 60 - heuristics_penalty
+    score = max(0, min(100, int(round(score_value))))
     positives = sorted(
         [label for label in SCORING.positive if probabilities.get(label, 0.0) > 0.45],
         key=lambda lbl: probabilities.get(lbl, 0.0),

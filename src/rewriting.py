@@ -124,12 +124,15 @@ PROFANITY_PATTERNS = {
         r"\bдолба\w*",
         r"\bидиот\w*",
         r"\bподлец\w*",
+        r"\bхер\w*",
+        r"\bчерт\b",
     ],
     "en": [
         r"\bidiot\b",
         r"\bjerk\b",
         r"\basshole\b",
         r"\btrash\b",
+        r"\bfool\b",
     ],
 }
 
@@ -149,10 +152,17 @@ def _ensure_period(text: str) -> str:
 
 
 def _sanitize_text(text: str, language: str) -> str:
-    cleaned = text
-    for pattern in PROFANITY_PATTERNS.get(language, []):
-        cleaned = re.sub(pattern, "", cleaned, flags=re.IGNORECASE)
-    cleaned = " ".join(cleaned.split())
+    filtered_sentences = []
+    sentences = re.split(r"(?<=[.!?])\s+", text.strip())
+    profane_patterns = PROFANITY_PATTERNS.get(language, [])
+    for sentence in sentences:
+        lowered = sentence.lower()
+        if any(re.search(pattern, lowered) for pattern in profane_patterns):
+            continue
+        normalized = " ".join(sentence.split())
+        if normalized and normalized not in filtered_sentences:
+            filtered_sentences.append(normalized)
+    cleaned = " ".join(filtered_sentences)
     return cleaned.strip()
 
 

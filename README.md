@@ -41,7 +41,10 @@
 
 ## Обучение
 ```bash
+# зависимости для инференса/приложения
 python3 -m pip install -r requirements.txt
+# добавляем пакеты для пайплайна обучения
+python3 -m pip install -r requirements-train.txt
 # 1) Создать/обновить синтетический датасет
 python3 training/dataset_builder.py --size 400 --output_dir data
 # 2) Обучить модель

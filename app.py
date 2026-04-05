@@ -16,9 +16,9 @@ st.set_page_config(page_title="Dating Profile Auditor", layout="wide")
 HERO_VARIANTS = {
     "ru": [
         {
-            "before_img": "https://images.unsplash.com/photo-1504593811423-6dd665756598?auto=format&fit=crop&w=600&q=60",
+            "before_img": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=600&q=40&sat=-80",
             "before_text": "«Эй, я тут ради мемов и вообще ничего рассказывать не собираюсь.»",
-            "after_img": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=600&q=60",
+            "after_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=600&q=80",
             "after_text": "«Инженер из Казани, бегаю вечерами, собираю джазовые винилы и ищу человека с самоиронией.»",
         },
         {
@@ -30,9 +30,9 @@ HERO_VARIANTS = {
     ],
     "en": [
         {
-            "before_img": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=600&q=60",
+            "before_img": "https://images.unsplash.com/photo-1504593811423-6dd665756598?auto=format&fit=crop&w=600&q=40&sat=-80",
             "before_text": "\"Here for drama, swipe if you can fix me.\"",
-            "after_img": "https://images.unsplash.com/photo-1504593811423-6dd665756598?auto=format&fit=crop&w=600&q=60&sat=-30",
+            "after_img": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=600&q=80",
             "after_text": "\"Product designer, sunrise runner, hopeless fan of vinyl cafés and low-key adventures.\"",
         },
         {
@@ -112,6 +112,9 @@ def main() -> None:
     )
     bundle = LocalizationBundle(language)
 
+    if "analysis_result" not in st.session_state:
+        render_hero(bundle)
+
     with st.spinner(bundle.t("loading_model")):
         auditor = load_auditor()
 
@@ -129,7 +132,8 @@ def main() -> None:
     st.sidebar.caption(bundle.t("disclaimer"))
 
     st.subheader(bundle.t("app_subtitle"))
-    render_hero(bundle)
+    if "analysis_result" not in st.session_state:
+        render_hero(bundle)
 
     if st.session_state.get("applied_variant"):
         st.success(bundle.t("rewrite_applied", variant=st.session_state["applied_variant"]))

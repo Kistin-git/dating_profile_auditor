@@ -115,10 +115,15 @@ RESET_CORES = {
 PROFANITY_PATTERNS = {
     "ru": [
         r"\bмудил\w*",
+        r"\bмудак\w*",
+        r"\bмудач\w*",
         r"\bебан\w*",
         r"\bсука\w*",
         r"\bгандон\w*",
         r"\bговн\w*",
+        r"\bдолба\w*",
+        r"\bидиот\w*",
+        r"\bподлец\w*",
     ],
     "en": [
         r"\bidiot\b",

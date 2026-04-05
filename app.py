@@ -1,7 +1,5 @@
 from __future__ import annotations
 
-import random
-
 import streamlit as st
 
 from src.config import LABEL_LOCALIZATION_KEYS, LABELS
@@ -13,66 +11,9 @@ from src.localization import LOCALIZATION, SAMPLE_BIOS, LocalizationBundle
 st.set_page_config(page_title="Dating Profile Auditor", layout="wide")
 
 
-HERO_VARIANTS = {
-    "ru": [
-        {
-            "before_img": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=600&q=40&sat=-80",
-            "before_text": "«Эй, я тут ради мемов и вообще ничего рассказывать не собираюсь.»",
-            "after_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=600&q=80",
-            "after_text": "«Инженер из Казани, бегаю вечерами, собираю джазовые винилы и ищу человека с самоиронией.»",
-        },
-        {
-            "before_img": "https://images.unsplash.com/photo-1463453091185-61582044d556?auto=format&fit=crop&w=600&q=60",
-            "before_text": "«Напиши, если точно знаешь, что хочешь, иначе не отвлекай.»",
-            "after_img": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=600&q=60",
-            "after_text": "«Сочиняю гитарные мини-концерты на кухне, люблю походы и честные разговоры без прессинга.»",
-        },
-    ],
-    "en": [
-        {
-            "before_img": "https://images.unsplash.com/photo-1504593811423-6dd665756598?auto=format&fit=crop&w=600&q=40&sat=-80",
-            "before_text": "\"Here for drama, swipe if you can fix me.\"",
-            "after_img": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=600&q=80",
-            "after_text": "\"Product designer, sunrise runner, hopeless fan of vinyl cafés and low-key adventures.\"",
-        },
-        {
-            "before_img": "https://images.unsplash.com/photo-1445052693476-5134dfe40f37?auto=format&fit=crop&w=600&q=60",
-            "before_text": "\"Bored. Impress me or move on.\"",
-            "after_img": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=600&q=60",
-            "after_text": "\"Curator of modern art, loves rooftop picnics and meaningful debates.\"",
-        },
-    ],
-}
-
-
 @st.cache_resource(show_spinner=False)
 def load_auditor() -> DatingProfileAuditor:
     return DatingProfileAuditor()
-
-
-def _get_hero_variant(lang: str) -> dict:
-    key = f"hero_variant_{lang}"
-    stored = st.session_state.get(key)
-    if not stored:
-        variant = random.choice(HERO_VARIANTS.get(lang, HERO_VARIANTS["ru"]))
-        st.session_state[key] = variant
-        return variant
-    return stored
-
-
-def render_hero(bundle: LocalizationBundle) -> None:
-    variant = _get_hero_variant(bundle.lang)
-    col_bad, col_arrow, col_good = st.columns([3, 1, 3])
-    with col_bad:
-        st.image(variant["before_img"], use_column_width=True)
-        st.caption(bundle.t("hero_bad_title"))
-        st.write(variant["before_text"])
-    with col_arrow:
-        st.markdown(f"### {bundle.t('hero_arrow')}")
-    with col_good:
-        st.image(variant["after_img"], use_column_width=True)
-        st.caption(bundle.t("hero_good_title"))
-        st.write(variant["after_text"])
 
 
 def render_diagnostics(diags: list[Diagnostic], bundle: LocalizationBundle) -> None:
@@ -112,9 +53,6 @@ def main() -> None:
     )
     bundle = LocalizationBundle(language)
 
-    if "analysis_result" not in st.session_state:
-        render_hero(bundle)
-
     with st.spinner(bundle.t("loading_model")):
         auditor = load_auditor()
 
@@ -132,9 +70,6 @@ def main() -> None:
     st.sidebar.caption(bundle.t("disclaimer"))
 
     st.subheader(bundle.t("app_subtitle"))
-    if "analysis_result" not in st.session_state:
-        render_hero(bundle)
-
     if st.session_state.get("applied_variant"):
         st.success(bundle.t("rewrite_applied", variant=st.session_state["applied_variant"]))
         st.session_state.pop("applied_variant")

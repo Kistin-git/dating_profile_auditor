@@ -14,61 +14,101 @@ HARSH_PATTERNS = [
 ]
 
 
-WRAP_SEGMENTS = {
-    "ru": [
-        "Добавляю чуть больше тепла:",
-        "Чуть больше иронии:",
-        "Более уверенная подача:",
-        "Хочу делиться маленькими открытиями и хорошим настроением.",
-        "Иногда для счастья достаточно странной шутки и вкусного ужина.",
-        "Ценю людей, которые знают, чего хотят, и действуют честно.",
-    ],
-    "en": [
-        "A warmer tone:",
-        "Let’s add humor:",
-        "More confident:",
-        "Looking to share cozy rituals and uplifting energy.",
-        "Turns out bad puns and pancakes solve half of life's issues.",
-        "I value people who know what they want and act kindly.",
-    ],
+RANDOM_TEMPLATES = {
+    "ru": {
+        "warmer": {
+            "prefixes": [
+                "Люблю слушать истории и делиться уютными привычками.",
+                "Собираю маленькие радости каждый день.",
+                "Теплота и поддержка для меня важнее показушных жестов.",
+            ],
+            "suffixes": [
+                "Буду рада знакомству без спешки.",
+                "Пусть в переписке будет больше заботы и внимания.",
+                "Хочу делиться хорошим настроением и маленькими открытиями.",
+            ],
+        },
+        "funny": {
+            "prefixes": [
+                "Всегда найду шутку, чтобы разбавить будни.",
+                "Люблю самоиронию и ситкомы.",
+                "Коллекционирую неловкие моменты и превращаю их в смех.",
+            ],
+            "suffixes": [
+                "Если умеешь смеяться над собой — точно поладим.",
+                "Давай обмениваться мемами и странными историями.",
+                "Мне важно, чтобы переписка была живой и лёгкой.",
+            ],
+        },
+        "confident": {
+            "prefixes": [
+                "Говорю честно и без кружев.",
+                "Ценю конкретику и взаимное уважение.",
+                "Умею держать фокус на главном.",
+            ],
+            "suffixes": [
+                "Давай сразу обсуждать цели без игр.",
+                "Уважаю инициативность и честность в диалоге.",
+                "Хочу видеть взаимный интерес и готовность действовать.",
+            ],
+        },
+    },
+    "en": {
+        "warmer": {
+            "prefixes": [
+                "I care about small rituals and thoughtful gestures.",
+                "Warm energy and empathy first, hype later.",
+                "Slow conversations over coffee are my thing.",
+            ],
+            "suffixes": [
+                "Let’s keep things kind and unhurried.",
+                "Looking for someone who enjoys cozy evenings too.",
+                "Would love to share playlists, laughs, and calm mornings.",
+            ],
+        },
+        "funny": {
+            "prefixes": [
+                "I quote sitcoms in random moments.",
+                "Sarcasm and memes are my defense mechanism.",
+                "I firmly believe awkward stories make the best jokes.",
+            ],
+            "suffixes": [
+                "Laugh at weird situations with me.",
+                "Let’s trade memes and chaotic giggles.",
+                "Humor is the best icebreaker, agree?",
+            ],
+        },
+        "confident": {
+            "prefixes": [
+                "I speak my mind and mean it.",
+                "Clarity, respect, and momentum are must-haves.",
+                "I know my goals and appreciate the same energy.",
+            ],
+            "suffixes": [
+                "Let’s skip games and keep it real.",
+                "If you value ambition with empathy, say hi.",
+                "Honesty and initiative will always win me over.",
+            ],
+        },
+    },
 }
 
 
-RANDOM_TEMPLATES = {
-    "ru": {
-        "warmer": [
-            "Теплее звучит так: {core} Люблю слушать истории и делиться уютными привычками.",
-            "Добавляю солнечный штрих: {core} Хочу строить связь без спешки и с заботой.",
-            "Более душевно: {core} Пусть в переписке будет больше тепла и поддержки.",
-        ],
-        "funny": [
-            "Немного самоиронии: {core} Смеюсь над странными ситуациями и коллекционирую мемы.",
-            "Добавим лёгкий абсурд: {core} Верю, что худшие каламбуры делают вечер лучше.",
-            "Больше улыбок: {core} Всегда найду шутку, чтобы разбавить будни.",
-        ],
-        "confident": [
-            "Более уверенная подача: {core} Отношусь к жизни осознанно и честно проговариваю желания.",
-            "Чёткая версия: {core} Ценю действия, уважение и инициативу.",
-            "Собранный вариант: {core} Мне важно видеть взаимный фокус и открытость.",
-        ],
-    },
-    "en": {
-        "warmer": [
-            "A softer vibe: {core} I care about small rituals and gentle conversations.",
-            "Cozy rewrite: {core} I'd love to share warmth, playlists, and calm evenings.",
-            "More heartfelt: {core} Let's build something kind without rushing.",
-        ],
-        "funny": [
-            "Humor boost: {core} I quote sitcoms at random and believe in chaotic giggles.",
-            "Goofier take: {core} Bad puns plus pancakes equal my love language.",
-            "Witty remix: {core} I like turning awkward moments into shared jokes.",
-        ],
-        "confident": [
-            "Sharper tone: {core} I know what I’m building and respect the same energy.",
-            "Focused edition: {core} Honesty, ambition, and empathy go first for me.",
-            "Bold rewrite: {core} Let’s skip games and talk goals openly.",
-        ],
-    },
+CRITICAL_PATTERNS = {
+    "ru": ["обосрал", "обосралась", "ненавижу себя", "я плохой", "я ужасный"],
+    "en": ["i messed up", "i'm trash", "hate myself"],
+}
+
+
+RESET_CORES = {
+    "ru": [
+        "Переписываю анкету с нуля: люблю прогулки, честный диалог и людей с самоиронией.",
+        "Давайте начнём заново: ценю спокойное общение, увлекаюсь чтением и велопрогулками.",
+    ],
+    "en": [
+        "Trying again: I enjoy honest chats, morning coffee walks, and people with humor.",
+        "Resetting the vibe: I care about kindness, playlists, and small spontaneous trips.",
+    ],
 }
 
 
@@ -76,8 +116,6 @@ def _strip_patterns(text: str, language: str) -> str:
     cleaned = text
     for pattern in HARSH_PATTERNS:
         cleaned = re.sub(pattern, "", cleaned, flags=re.IGNORECASE)
-    for segment in WRAP_SEGMENTS.get(language, []):
-        cleaned = re.sub(re.escape(segment), "", cleaned).strip()
     return cleaned.strip()
 
 
@@ -103,18 +141,30 @@ class RewriteGenerator:
         self.language = language if language in RANDOM_TEMPLATES else "ru"
         return self
 
+    def _needs_reset(self, text: str) -> bool:
+        patterns = CRITICAL_PATTERNS.get(self.language, [])
+        lowered = text.lower()
+        return any(pattern in lowered for pattern in patterns)
+
+    def _compose(self, variant: str, core: str) -> str:
+        template = RANDOM_TEMPLATES[self.language][variant]
+        prefix = random.choice(template["prefixes"])
+        suffix = random.choice(template["suffixes"])
+        return " ".join(part for part in [prefix, core, suffix] if part).strip()
+
     def generate(self, text: str, heuristics: HeuristicResult | None = None) -> RewriteResult:
         core = _strip_patterns(text, self.language)
-        if heuristics and heuristics.cliche_hits:
+        if self._needs_reset(core):
+            core = random.choice(RESET_CORES[self.language])
+        elif heuristics and heuristics.cliche_hits:
             replacements = " ".join(
                 f"Переформулировал клише «{c}»" if self.language == "ru" else f"Rephrased cliché \"{c}\""
                 for c in heuristics.cliche_hits[:2]
             )
             core = f"{core} {replacements}".strip()
         core = _ensure_period(core)
-        lang_templates = RANDOM_TEMPLATES[self.language]
         return RewriteResult(
-            warmer=random.choice(lang_templates["warmer"]).format(core=core),
-            funny=random.choice(lang_templates["funny"]).format(core=core),
-            confident=random.choice(lang_templates["confident"]).format(core=core),
+            warmer=self._compose("warmer", core),
+            funny=self._compose("funny", core),
+            confident=self._compose("confident", core),
         )
